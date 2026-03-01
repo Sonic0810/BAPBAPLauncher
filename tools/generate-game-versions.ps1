@@ -127,7 +127,7 @@ foreach ($row in $normalSorted) {
     }
     $display = if ($order -eq 0) { "BAPBAP" } elseif ($row.displayName) { $row.displayName } else { "BAPBAP Build $($row.releaseDateUtc.Substring(0,10))" }
     $gameVersion = if ($row.gameVersion) { $row.gameVersion } else { "build-$($row.releaseDateUtc.Substring(0,10))" }
-    $image = if ($row.imagePath) { $row.imagePath } else { "manifest/assets/instances/latest.png" }
+    $image = if ($row.imagePath) { $row.imagePath } else { "assets/instances/latest.png" }
 
     $versions += [ordered]@{
         id = $id
@@ -151,7 +151,7 @@ $versions += [ordered]@{
     gameVersion = if ($boss.gameVersion) { $boss.gameVersion } else { "boss-rush" }
     displayName = if ($boss.displayName) { $boss.displayName } else { "Boss Rush" }
     description = "Boss Rush branch snapshot."
-    imagePath = if ($boss.imagePath) { $boss.imagePath } else { "manifest/assets/instances/boss-rush.png" }
+    imagePath = if ($boss.imagePath) { $boss.imagePath } else { "assets/instances/boss-rush.png" }
     steamManifestId = $boss.manifestId
     releaseDateUtc = $boss.releaseDateUtc
     order = 0

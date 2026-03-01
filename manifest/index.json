@@ -9,7 +9,7 @@
       "depotId": "2226283"
     }
   },
-  "gameVersionsManifestPath": "manifest/game-versions.json",
+  "gameVersionsManifestPath": "game-versions.json",
   "melonLoader": {
     "requiredVersion": "0.7.2-ci.2388",
     "x64": {
@@ -26,7 +26,7 @@
     {
       "id": "release",
       "name": "Release",
-      "manifestPath": "manifest/channels/release/channel.json",
+      "manifestPath": "channels/release/channel.json",
       "order": 0,
       "enabled": true
     }
@@ -34,6 +34,6 @@
   "channelDiscovery": {
     "mode": "manifest-first",
     "apiFallback": true,
-    "channelsRootPath": "manifest/channels"
+    "channelsRootPath": "channels"
   }
 }
