@@ -169,5 +169,8 @@ if ($outputDir -and !(Test-Path $outputDir)) {
     New-Item -ItemType Directory -Path $outputDir -Force | Out-Null
 }
 
-$doc | ConvertTo-Json -Depth 10 | Set-Content -Path $OutputJson -Encoding UTF8
+$json = $doc | ConvertTo-Json -Depth 10
+$utf8NoBom = New-Object System.Text.UTF8Encoding($false)
+$outputFullPath = [System.IO.Path]::GetFullPath($OutputJson)
+[System.IO.File]::WriteAllText($outputFullPath, "$json`n", $utf8NoBom)
 Write-Host "Wrote $OutputJson with $($versions.Count) version entries."
