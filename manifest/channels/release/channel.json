@@ -1,0 +1,6 @@
+{
+  "schemaVersion": 1,
+  "channelId": "release",
+  "displayName": "Release",
+  "packagesIndexPath": "manifest/channels/release/packages.json"
+}

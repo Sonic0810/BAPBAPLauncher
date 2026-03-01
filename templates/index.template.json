@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "name": "BAPBAP",
+    "executable": "bapbap.exe",
+    "dataFolder": "BAPBAP_Data",
+    "steam": {
+      "appId": "2226280",
+      "depotId": "2226283"
+    }
+  },
+  "gameVersionsManifestPath": "manifest/game-versions.json",
+  "melonLoader": {
+    "requiredVersion": "0.7.2-ci.2388",
+    "x64": {
+      "url": "https://raw.githubusercontent.com/<owner>/<repo>/main/melonloader/0.7.2-ci.2388/MelonLoader.Windows.x64.CI.Release.zip",
+      "sha256": "<sha256-x64>"
+    },
+    "x86": {
+      "url": "https://raw.githubusercontent.com/<owner>/<repo>/main/melonloader/0.7.2-ci.2388/MelonLoader.Windows.x86.CI.Release.zip",
+      "sha256": "<sha256-x86>"
+    }
+  },
+  "discordUrl": "https://discord.gg/JaYnw6TMg9",
+  "channels": [
+    {
+      "id": "release",
+      "name": "Release",
+      "manifestPath": "manifest/channels/release/channel.json",
+      "order": 0,
+      "enabled": true
+    }
+  ],
+  "channelDiscovery": {
+    "mode": "manifest-first",
+    "apiFallback": true,
+    "channelsRootPath": "manifest/channels"
+  }
+}

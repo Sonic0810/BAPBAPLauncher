@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "<package-id>",
+  "version": "1.0.0",
+  "allowedExtraTargets": [],
+  "files": [
+    {
+      "sourcePath": "files/<artifact>",
+      "targetPath": "Mods/<artifact>",
+      "sha256": "<sha256>",
+      "description": "<what this file does>"
+    }
+  ],
+  "requirements": [
+    {
+      "id": "note-1",
+      "text": "Optional package requirement note.",
+      "type": "note",
+      "severity": "info"
+    }
+  ]
+}

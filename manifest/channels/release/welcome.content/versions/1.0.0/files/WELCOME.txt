@@ -1,0 +1,4 @@
+﻿BAPBAP Launcher Content Backend
+
+This starter package confirms that BAPHub package install/sync is working.
+It can safely be installed to UserData.

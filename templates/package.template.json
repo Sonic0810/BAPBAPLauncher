@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "<package-id>",
+  "type": "mod",
+  "name": "<Package Name>",
+  "summary": "<One-line summary>",
+  "description": "<Longer description>",
+  "imagePath": "../../../assets/packages/<cover>.png",
+  "gallery": [
+    "../../../assets/packages/<gallery-1>.png"
+  ],
+  "authors": [
+    {
+      "id": "<author-id>",
+      "name": "<Author Name>",
+      "profileUrl": "https://github.com/<author>"
+    }
+  ],
+  "owner": {
+    "name": "<Owner>",
+    "profileUrl": "https://github.com/<owner>"
+  },
+  "tags": [
+    "qol"
+  ],
+  "requirements": [
+    {
+      "id": "melonloader-required",
+      "text": "MelonLoader 0.7.2-ci.2388 is required.",
+      "type": "melonloader_version",
+      "value": "0.7.2-ci.2388",
+      "severity": "warning"
+    }
+  ],
+  "latestVersion": "1.0.0",
+  "metrics": {
+    "downloadCount": 0,
+    "likeCount": 0,
+    "followCount": 0,
+    "createdAtUtc": "2026-03-01T00:00:00Z",
+    "updatedAtUtc": "2026-03-01T00:00:00Z"
+  },
+  "versions": [
+    {
+      "version": "1.0.0",
+      "changelog": "Initial release",
+      "versionManifestPath": "versions/1.0.0/version.json"
+    }
+  ]
+}

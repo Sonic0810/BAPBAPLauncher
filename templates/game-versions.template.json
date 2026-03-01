@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "steamAppId": "2226280",
+  "steamDepotId": "2226283",
+  "versions": [
+    {
+      "id": "latest",
+      "track": "bapbap",
+      "gameVersion": "<version>",
+      "displayName": "BAPBAP",
+      "description": "Latest official BAPBAP release.",
+      "imagePath": "manifest/assets/instances/latest.png",
+      "steamManifestId": "<manifest-id>",
+      "releaseDateUtc": "<yyyy-mm-dd>T00:00:00Z",
+      "recommended": true,
+      "order": 0
+    },
+    {
+      "id": "boss-rush",
+      "track": "boss-rush",
+      "gameVersion": "<version>",
+      "displayName": "Boss Rush",
+      "description": "Boss Rush branch snapshot.",
+      "imagePath": "manifest/assets/instances/boss-rush.png",
+      "steamManifestId": "9199065605303375081",
+      "releaseDateUtc": "<yyyy-mm-dd>T00:00:00Z",
+      "order": 0
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "welcome.content",
+  "version": "1.0.0",
+  "allowedExtraTargets": [],
+  "files": [
+    {
+      "sourcePath": "files/WELCOME.txt",
+      "targetPath": "UserData/BAPHub/WELCOME.txt",
+      "sha256": "8d314d100919cc4013e433681e62a5b5b23a18b81b05ad829a6c7ab8789bd873",
+      "description": "Starter marker file for BAPHub installation checks."
+    }
+  ],
+  "requirements": [
+    {
+      "id": "starter-note",
+      "text": "This package is optional and only demonstrates package install behavior.",
+      "type": "note",
+      "severity": "info"
+    }
+  ]
+}

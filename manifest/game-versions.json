@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 2,
+  "steamAppId": "2226280",
+  "steamDepotId": "2226283",
+  "versions": [
+    {
+      "id": "latest",
+      "track": "bapbap",
+      "gameVersion": "1.42.2",
+      "displayName": "BAPBAP",
+      "description": "Latest official BAPBAP release.",
+      "imagePath": "manifest/assets/instances/latest.png",
+      "steamManifestId": "1066557288966229065",
+      "releaseDateUtc": "2026-02-26T00:00:00Z",
+      "recommended": true,
+      "order": 0
+    },
+    {
+      "id": "boss-rush",
+      "track": "boss-rush",
+      "gameVersion": "1.42.1",
+      "displayName": "Boss Rush",
+      "description": "Boss Rush branch snapshot.",
+      "imagePath": "manifest/assets/instances/boss-rush.png",
+      "steamManifestId": "9199065605303375081",
+      "releaseDateUtc": "2026-02-12T00:00:00Z",
+      "order": 0
+    },
+    {
+      "id": "build-2026-02-06",
+      "track": "bapbap",
+      "gameVersion": "build-2026-02-06",
+      "displayName": "BAPBAP Build 2026-02-06",
+      "description": "Official snapshot from 2026-02-06.",
+      "imagePath": "manifest/assets/instances/build-2026-02-06.png",
+      "steamManifestId": "1494499722052198360",
+      "releaseDateUtc": "2026-02-06T00:00:00Z",
+      "order": 2
+    },
+    {
+      "id": "build-2026-01-30",
+      "track": "bapbap",
+      "gameVersion": "build-2026-01-30",
+      "displayName": "BAPBAP Build 2026-01-30",
+      "description": "Official snapshot from 2026-01-30.",
+      "imagePath": "manifest/assets/instances/build-2026-01-30.png",
+      "steamManifestId": "2146873070265989545",
+      "releaseDateUtc": "2026-01-30T00:00:00Z",
+      "order": 3
+    },
+    {
+      "id": "build-2026-01-16",
+      "track": "bapbap",
+      "gameVersion": "build-2026-01-16",
+      "displayName": "BAPBAP Build 2026-01-16",
+      "description": "Official snapshot from 2026-01-16.",
+      "imagePath": "manifest/assets/instances/build-2026-01-16.jpg",
+      "steamManifestId": "6348278229919495078",
+      "releaseDateUtc": "2026-01-16T00:00:00Z",
+      "order": 4
+    },
+    {
+      "id": "build-2025-12-15",
+      "track": "bapbap",
+      "gameVersion": "build-2025-12-15",
+      "displayName": "BAPBAP Build 2025-12-15",
+      "description": "Official snapshot from 2025-12-15.",
+      "imagePath": "manifest/assets/instances/latest.png",
+      "steamManifestId": "9034094596746127656",
+      "releaseDateUtc": "2025-12-15T00:00:00Z",
+      "order": 5
+    },
+    {
+      "id": "build-2025-12-11",
+      "track": "bapbap",
+      "gameVersion": "build-2025-12-11",
+      "displayName": "BAPBAP Build 2025-12-11",
+      "description": "Official snapshot from 2025-12-11.",
+      "imagePath": "manifest/assets/instances/latest.png",
+      "steamManifestId": "2809537593235241686",
+      "releaseDateUtc": "2025-12-11T00:00:00Z",
+      "order": 6
+    },
+    {
+      "id": "build-2025-11-27",
+      "track": "bapbap",
+      "gameVersion": "build-2025-11-27",
+      "displayName": "BAPBAP Build 2025-11-27",
+      "description": "Official snapshot from 2025-11-27.",
+      "imagePath": "manifest/assets/instances/latest.png",
+      "steamManifestId": "6206238050126065242",
+      "releaseDateUtc": "2025-11-27T00:00:00Z",
+      "order": 7
+    },
+    {
+      "id": "build-2025-11-20",
+      "track": "bapbap",
+      "gameVersion": "build-2025-11-20",
+      "displayName": "BAPBAP Build 2025-11-20",
+      "description": "Official snapshot from 2025-11-20.",
+      "imagePath": "manifest/assets/instances/latest.png",
+      "steamManifestId": "6704116858463935186",
+      "releaseDateUtc": "2025-11-20T00:00:00Z",
+      "order": 8
+    },
+    {
+      "id": "build-2025-11-14",
+      "track": "bapbap",
+      "gameVersion": "build-2025-11-14",
+      "displayName": "BAPBAP Build 2025-11-14",
+      "description": "Official snapshot from 2025-11-14.",
+      "imagePath": "manifest/assets/instances/latest.png",
+      "steamManifestId": "6202282317814242945",
+      "releaseDateUtc": "2025-11-14T00:00:00Z",
+      "order": 9
+    }
+  ]
+}
