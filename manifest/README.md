@@ -31,3 +31,8 @@ Artifacts are mirrored under:
 
 `/melonloader/0.7.2-ci.2388/`
 
+## Authoring Guide (DE)
+
+Step-by-step guide for adding versions/packages/files:
+
+`docs/BAPHub-Content-Authoring-DE.md`
