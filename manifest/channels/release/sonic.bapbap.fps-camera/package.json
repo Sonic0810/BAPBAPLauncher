@@ -1,0 +1,54 @@
+﻿{
+    "schemaVersion":  1,
+    "id":  "sonic.bapbap.fps-camera",
+    "type":  "mod",
+    "name":  "BAPFPS (First/Third Person)",
+    "summary":  "Enables first-person and third-person camera gameplay.",
+    "description":  "Camera mod that enables switching into first-person and third-person perspectives.",
+    "imagePath":  "../../../assets/packages/welcome-cover.png",
+    "gallery":  [
+
+                ],
+    "authors":  [
+                    {
+                        "id":  "sonic0810",
+                        "name":  "Sonic0810",
+                        "profileUrl":  "https://github.com/Sonic0810",
+                        "role":  "Owner"
+                    }
+                ],
+    "owner":  {
+                  "name":  "Sonic0810",
+                  "profileUrl":  "https://github.com/Sonic0810"
+              },
+    "tags":  [
+                 "mod",
+                 "camera",
+                 "first-person",
+                 "third-person"
+             ],
+    "requirements":  [
+                         {
+                             "id":  "melonloader-required",
+                             "text":  "MelonLoader 0.7.2-ci.2388 is required for managed installs.",
+                             "type":  "melonloader_version",
+                             "value":  "0.7.2-ci.2388",
+                             "severity":  "warning"
+                         }
+                     ],
+    "latestVersion":  "0.2.0",
+    "metrics":  {
+                    "downloadCount":  0,
+                    "likeCount":  0,
+                    "followCount":  0,
+                    "createdAtUtc":  "2026-03-02T11:19:23Z",
+                    "updatedAtUtc":  "2026-03-02T11:19:23Z"
+                },
+    "versions":  [
+                     {
+                         "version":  "0.2.0",
+                         "changelog":  "Initial launcher release",
+                         "versionManifestPath":  "versions/0.2.0/version.json"
+                     }
+                 ]
+}

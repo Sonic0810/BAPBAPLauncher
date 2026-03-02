@@ -1,0 +1,16 @@
+﻿{
+    "schemaVersion":  1,
+    "id":  "sonic.bapbap.br-ui-old-but-gold",
+    "version":  "1.0.0",
+    "allowedExtraTargets":  [
+
+                            ],
+    "files":  [
+                  {
+                      "sourcePath":  "files/OldButGold.dll",
+                      "targetPath":  "Mods/OldButGold.dll",
+                      "sha256":  "d76fa7c7fbad1c11187629ae083c6ea236e65a91e11a8a33d42c412b83dd030c",
+                      "description":  "Main mod dll"
+                  }
+              ]
+}
