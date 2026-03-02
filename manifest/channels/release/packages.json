@@ -3,26 +3,6 @@
     "channelId":  "release",
     "packages":  [
                      {
-                         "id":  "welcome.content",
-                         "type":  "content",
-                         "name":  "BAPHub Welcome Pack",
-                         "summary":  "Starter content package for BAPBAP Launcher and BAPHub.",
-                         "description":  "Contains a welcome file to validate GitHub-driven install and sync.",
-                         "imagePath":  "../../assets/packages/hpnumber.png",
-                         "packageManifestPath":  "welcome.content/package.json",
-                         "tags":  [
-                                      "starter",
-                                      "content"
-                                  ],
-                         "featured":  true,
-                         "featuredRank":  1,
-                         "downloadCount":  0,
-                         "likeCount":  0,
-                         "followCount":  0,
-                         "createdAtUtc":  "2026-03-01T00:00:00Z",
-                         "updatedAtUtc":  "2026-03-01T00:00:00Z"
-                     },
-                     {
                          "id":  "sonic.bapbap.hidden-dev-arguments",
                          "type":  "mod",
                          "name":  "BAPBAP Hidden Dev Arguments",
