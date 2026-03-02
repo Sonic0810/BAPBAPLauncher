@@ -53,13 +53,13 @@
                  ],
     "visual":  {
                    "preset":  "shiny",
-                   "tags":  [
-                                "shiny"
-                            ],
                    "frame":  {
                                  "borderColor":  "#f59e0b",
                                  "glowColor":  "#f59e0b",
                                  "pulse":  true
-                             }
+                             },
+                   "tags":  [
+                                "hidden_shiny"
+                            ]
                }
 }
