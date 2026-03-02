@@ -2,10 +2,10 @@
     "schemaVersion":  1,
     "id":  "sonic.bapbap.arena-random-chars",
     "type":  "mod",
-    "name":  "BAPBAP Arena Random Chars",
-    "summary":  "Random character assignment for arena rounds.",
-    "description":  "Standalone arena random character mod that rotates characters during active arena matches.",
-    "imagePath":  "../../../assets/packages/welcome-cover.png",
+    "name":  "BAPBAP Random Chars",
+    "summary":  "Host only.",
+    "description":  "Everybody gets a new Char after each round! ",
+    "imagePath":  "../../../assets/packages/randomchar.png",
     "gallery":  [
 
                 ],
