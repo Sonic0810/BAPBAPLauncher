@@ -3,8 +3,8 @@
     "id":  "sonic.bapbap.hp-numbers",
     "type":  "mod",
     "name":  "BAPBAP HP Numbers",
-    "summary":  "Displays live HP values on health bars.",
-    "description":  "Standalone HP numbers overlay mod for BAPBAP with in-match value updates.",
+    "summary":  "Shows your HP as a Number.",
+    "description":  "It displays your HP as a Number.",
     "imagePath":  "../../../assets/packages/welcome-cover.png",
     "gallery":  [
 
