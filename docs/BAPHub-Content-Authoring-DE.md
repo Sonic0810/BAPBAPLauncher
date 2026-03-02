@@ -238,4 +238,21 @@ Pfad in `manifest/index.json`:
 5. `packages.json` Eintrag anlegen.
 6. Bilder in `manifest/assets/packages/` ablegen.
 7. Push nach `main`.
+
+## 11) Visual-Effekte (`visual.tags`)
+
+Du kannst pro Paket visuelle Effekte setzen:
+
+- sichtbare Tokens: `shiny`, `holo`, `neon`, `frost`, `ember`, `prism`, `glitch`, `aurora`
+- hidden Tokens: `hidden_shiny`, `hidden_holo`, `hidden_neon`, `hidden_frost`, `hidden_ember`, `hidden_prism`, `hidden_glitch`, `hidden_aurora`
+
+`hidden_*` aktiviert den Effekt, ohne dass der Tag als Chip angezeigt wird.
+
+Beispiel:
+
+```json
+"visual": {
+  "tags": ["hidden_prism"]
+}
+```
 8. Im Launcher `Refresh` drücken.

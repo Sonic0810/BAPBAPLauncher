@@ -27,6 +27,11 @@
     "modding",
     "audio"
   ],
+  "visual": {
+    "tags": [
+      "hidden_glitch"
+    ]
+  },
   "requirements": [
     {
       "id": "melonloader-required",

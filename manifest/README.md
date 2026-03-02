@@ -15,6 +15,15 @@ Use this as launcher manifest source:
 - `channels/release/*`: starter package index + package manifests
 - `assets/*`: version/package images
 
+## Visual Effects
+
+Effect tags are configured via `visual.tags`.
+
+- visible: `shiny`, `holo`, `neon`, `frost`, `ember`, `prism`, `glitch`, `aurora`
+- hidden: `hidden_shiny`, `hidden_holo`, `hidden_neon`, `hidden_frost`, `hidden_ember`, `hidden_prism`, `hidden_glitch`, `hidden_aurora`
+
+`hidden_*` tokens apply the style but remain hidden in the launcher tag chips.
+
 ## Boss Rush
 
 Boss Rush is a dedicated track entry and currently pinned to:
