@@ -8,7 +8,7 @@
                          "name":  "BAPHub Welcome Pack",
                          "summary":  "Starter content package for BAPBAP Launcher and BAPHub.",
                          "description":  "Contains a welcome file to validate GitHub-driven install and sync.",
-                         "imagePath":  "../../assets/packages/welcome-cover.png",
+                         "imagePath":  "../../assets/packages/hpnumber.png",
                          "packageManifestPath":  "welcome.content/package.json",
                          "tags":  [
                                       "starter",
@@ -86,7 +86,7 @@
                          "likeCount":  0,
                          "followCount":  0,
                          "createdAtUtc":  "2026-03-02T00:34:00Z",
-                         "updatedAtUtc":  "2026-03-02T12:09:38Z"
+                         "updatedAtUtc":  "2026-03-02T12:13:27Z"
                      },
                      {
                          "id":  "sonic.bapbap.arena-random-chars",

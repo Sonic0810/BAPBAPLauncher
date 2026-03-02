@@ -5,7 +5,7 @@
     "name":  "BAPBAP HP Numbers",
     "summary":  "Shows your HP as a Number.",
     "description":  "It displays your HP as a Number.",
-    "imagePath":  "../../../assets/packages/welcome-cover.png",
+    "imagePath":  "../../../assets/packages/hpnumber.png",
     "gallery":  [
 
                 ],
@@ -42,7 +42,7 @@
                     "likeCount":  0,
                     "followCount":  0,
                     "createdAtUtc":  "2026-03-02T00:33:37Z",
-                    "updatedAtUtc":  "2026-03-02T12:09:38Z"
+                    "updatedAtUtc":  "2026-03-02T12:13:27Z"
                 },
     "versions":  [
                      {
