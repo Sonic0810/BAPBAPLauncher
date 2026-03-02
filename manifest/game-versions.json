@@ -1,4 +1,4 @@
-{
+﻿{
     "schemaVersion":  2,
     "steamAppId":  "2226280",
     "steamDepotId":  "2226283",
@@ -13,7 +13,10 @@
                          "steamManifestId":  "3691247073315750068",
                          "releaseDateUtc":  "2025-08-19T18:14:42Z",
                          "recommended":  true,
-                         "order":  0
+                         "order":  0,
+                         "directDownloadUrl":  "https://github.com/Sonic0810/BAPBAPLauncher/releases/download/depots-v1/latest.zip",
+                         "directDownloadFileName":  "latest.zip",
+                         "directDownloadSha256":  "e84b8bedc98b91da627bf10e6aa12fb5139beb2933ce8c92fee7ea21cbced76c"
                      },
                      {
                          "id":  "build-2025-08-14",
@@ -120,8 +123,10 @@
                          "imagePath":  "assets/instances/boss-rush.png",
                          "steamManifestId":  "9199065605303375081",
                          "releaseDateUtc":  "2025-06-10T17:58:43Z",
-                         "order":  0
+                         "order":  0,
+                         "directDownloadUrl":  "https://github.com/Sonic0810/BAPBAPLauncher/releases/download/depots-v1/bossrush.zip",
+                         "directDownloadFileName":  "bossrush.zip",
+                         "directDownloadSha256":  "b5a82cad63c04baa75e870265ce962d947c1a8420feb198869ca4a3dca3c0f93"
                      }
                  ]
 }
-
