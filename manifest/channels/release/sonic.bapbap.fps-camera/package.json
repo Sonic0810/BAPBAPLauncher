@@ -27,6 +27,11 @@
                  "first-person",
                  "third-person"
              ],
+    "visual":  {
+                   "tags":  [
+                                "hidden_prism"
+                            ]
+               },
     "requirements":  [
                          {
                              "id":  "melonloader-required",

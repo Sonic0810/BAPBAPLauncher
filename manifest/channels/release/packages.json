@@ -163,7 +163,12 @@
                          "likeCount":  0,
                          "followCount":  0,
                          "createdAtUtc":  "2026-03-02T11:19:23Z",
-                         "updatedAtUtc":  "2026-03-02T11:29:12Z"
+                         "updatedAtUtc":  "2026-03-02T11:29:12Z",
+                         "visual":  {
+                                        "tags":  [
+                                                     "hidden_prism"
+                                                 ]
+                                    }
                      },
                      {
                          "id":  "sonic.bapbap.asset-dumper",
@@ -185,7 +190,12 @@
                          "likeCount":  0,
                          "followCount":  0,
                          "createdAtUtc":  "2026-03-02T13:37:04Z",
-                         "updatedAtUtc":  "2026-03-02T13:37:04Z"
+                         "updatedAtUtc":  "2026-03-02T13:37:04Z",
+                         "visual":  {
+                                        "tags":  [
+                                                     "hidden_glitch"
+                                                 ]
+                                    }
                      }
                  ]
 }

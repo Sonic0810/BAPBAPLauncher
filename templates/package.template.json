@@ -23,6 +23,12 @@
   "tags": [
     "qol"
   ],
+  "visual": {
+    "preset": "prism",
+    "tags": [
+      "hidden_prism"
+    ]
+  },
   "requirements": [
     {
       "id": "melonloader-required",
