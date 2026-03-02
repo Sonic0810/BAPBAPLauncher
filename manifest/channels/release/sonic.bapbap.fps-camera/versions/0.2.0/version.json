@@ -1,0 +1,16 @@
+﻿{
+    "schemaVersion":  1,
+    "id":  "sonic.bapbap.fps-camera",
+    "version":  "0.2.0",
+    "allowedExtraTargets":  [
+
+                            ],
+    "files":  [
+                  {
+                      "sourcePath":  "files/BAPFPSv0.2.dll",
+                      "targetPath":  "Mods/BAPFPSv0.2.dll",
+                      "sha256":  "6562fee8b8ea44dfd290e0e637d3653ac7adac5883ac45a26459bf60aac7f69e",
+                      "description":  "Main mod dll"
+                  }
+              ]
+}
