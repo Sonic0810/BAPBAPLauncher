@@ -3,9 +3,9 @@
     "id":  "sonic.bapbap.hidden-dev-arguments",
     "type":  "mod",
     "name":  "BAPBAP Hidden Dev Arguments",
-    "summary":  "Full native argument catalog and arena category integration.",
-    "description":  "Standalone mod that extends hidden/dev argument access and category integration for BAPBAP.",
-    "imagePath":  "../../../assets/packages/welcome-cover.png",
+    "summary":  "Get all the HiddenDev Arguments and Items.",
+    "description":  "This Mod gives you way more Arguments (and sometimes broken stuff).",
+    "imagePath":  "../../../assets/packages/devarg.png",
     "gallery":  [
 
                 ],
