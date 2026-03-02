@@ -36,15 +36,20 @@
                              "severity":  "warning"
                          }
                      ],
-    "latestVersion":  "1.0.0",
+    "latestVersion":  "1.0.1",
     "metrics":  {
                     "downloadCount":  0,
                     "likeCount":  0,
                     "followCount":  0,
                     "createdAtUtc":  "2026-03-02T00:33:37Z",
-                    "updatedAtUtc":  "2026-03-02T00:33:37Z"
+                    "updatedAtUtc":  "2026-03-02T12:09:38Z"
                 },
     "versions":  [
+                     {
+                         "version":  "1.0.1",
+                         "changelog":  "Fix HP text visibility and safe prop handling",
+                         "versionManifestPath":  "versions/1.0.1/version.json"
+                     },
                      {
                          "version":  "1.0.0",
                          "changelog":  "Initial launcher release",
