@@ -1,0 +1,14 @@
+﻿{
+  "schemaVersion": 1,
+  "id": "sonic.bapbap.asset-dumper",
+  "version": "1.0.0",
+  "allowedExtraTargets": [],
+  "files": [
+    {
+      "sourcePath": "files/BAPBAPAssetDumper.dll",
+      "targetPath": "Mods/BAPBAPAssetDumper.dll",
+      "sha256": "82cffc5450034f5ae03a14fe5e4448ca758007f98255e12cba142c32a907f154",
+      "description": "Main tool dll"
+    }
+  ]
+}

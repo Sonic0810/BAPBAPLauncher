@@ -1,0 +1,54 @@
+﻿{
+  "schemaVersion": 1,
+  "id": "sonic.bapbap.asset-dumper",
+  "type": "tool",
+  "name": "BAPBAP Asset Dumper",
+  "summary": "Dump assets, icons and sounds from BAPBAP into a local folder.",
+  "description": "If you want all assets, icons and sounds inside of the game, use this tool/mod to dump them into a folder so you can reuse them. Ingame press F8 to open the UI. The mod creates a dump folder inside your BAPBAP game folder. Audio files are exported as .banks and can be converted with FMOD Bank Tools: https://github.com/Wouldubeinta/Fmod-Bank-Tools/releases",
+  "imagePath": "../../../assets/packages/assetdumper.png",
+  "gallery": [
+    "../../../assets/packages/assetdumper.png"
+  ],
+  "authors": [
+    {
+      "id": "sonic0810",
+      "name": "Sonic0810",
+      "profileUrl": "https://github.com/Sonic0810",
+      "role": "Owner"
+    }
+  ],
+  "owner": {
+    "name": "Sonic0810",
+    "profileUrl": "https://github.com/Sonic0810"
+  },
+  "tags": [
+    "tool",
+    "asset-dump",
+    "modding",
+    "audio"
+  ],
+  "requirements": [
+    {
+      "id": "melonloader-required",
+      "text": "MelonLoader 0.7.2-ci.2388 is required for managed installs.",
+      "type": "melonloader_version",
+      "value": "0.7.2-ci.2388",
+      "severity": "warning"
+    }
+  ],
+  "latestVersion": "1.0.0",
+  "metrics": {
+    "downloadCount": 0,
+    "likeCount": 0,
+    "followCount": 0,
+    "createdAtUtc": "2026-03-02T13:37:04Z",
+    "updatedAtUtc": "2026-03-02T13:37:04Z"
+  },
+  "versions": [
+    {
+      "version": "1.0.0",
+      "changelog": "Initial launcher release",
+      "versionManifestPath": "versions/1.0.0/version.json"
+    }
+  ]
+}
