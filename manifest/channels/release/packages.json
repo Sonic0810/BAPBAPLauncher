@@ -22,7 +22,18 @@
                          "likeCount":  0,
                          "followCount":  0,
                          "createdAtUtc":  "2026-03-02T00:34:00Z",
-                         "updatedAtUtc":  "2026-03-02T00:34:00Z"
+                         "updatedAtUtc":  "2026-03-02T00:34:00Z",
+                         "visual":  {
+                                        "preset":  "shiny",
+                                        "tags":  [
+                                                     "shiny"
+                                                 ],
+                                        "frame":  {
+                                                      "borderColor":  "#f59e0b",
+                                                      "glowColor":  "#f59e0b",
+                                                      "pulse":  true
+                                                  }
+                                    }
                      },
                      {
                          "id":  "sonic.bapbap.pool-randomizer",

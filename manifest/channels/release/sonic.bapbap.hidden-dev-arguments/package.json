@@ -50,5 +50,16 @@
                          "changelog":  "Initial launcher release",
                          "versionManifestPath":  "versions/1.0.0/version.json"
                      }
-                 ]
+                 ],
+    "visual":  {
+                   "preset":  "shiny",
+                   "tags":  [
+                                "shiny"
+                            ],
+                   "frame":  {
+                                 "borderColor":  "#f59e0b",
+                                 "glowColor":  "#f59e0b",
+                                 "pulse":  true
+                             }
+               }
 }
