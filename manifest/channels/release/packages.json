@@ -1,26 +1,114 @@
-{
-  "schemaVersion": 1,
-  "channelId": "release",
-  "packages": [
-    {
-      "id": "welcome.content",
-      "type": "content",
-      "name": "BAPHub Welcome Pack",
-      "summary": "Starter content package for BAPBAP Launcher and BAPHub.",
-      "description": "Contains a welcome file to validate GitHub-driven install and sync.",
-      "imagePath": "../../assets/packages/welcome-cover.png",
-      "packageManifestPath": "welcome.content/package.json",
-      "tags": [
-        "starter",
-        "content"
-      ],
-      "featured": true,
-      "featuredRank": 1,
-      "downloadCount": 0,
-      "likeCount": 0,
-      "followCount": 0,
-      "createdAtUtc": "2026-03-01T00:00:00Z",
-      "updatedAtUtc": "2026-03-01T00:00:00Z"
-    }
-  ]
+﻿{
+    "schemaVersion":  1,
+    "channelId":  "release",
+    "packages":  [
+                     {
+                         "id":  "welcome.content",
+                         "type":  "content",
+                         "name":  "BAPHub Welcome Pack",
+                         "summary":  "Starter content package for BAPBAP Launcher and BAPHub.",
+                         "description":  "Contains a welcome file to validate GitHub-driven install and sync.",
+                         "imagePath":  "../../assets/packages/welcome-cover.png",
+                         "packageManifestPath":  "welcome.content/package.json",
+                         "tags":  [
+                                      "starter",
+                                      "content"
+                                  ],
+                         "featured":  true,
+                         "featuredRank":  1,
+                         "downloadCount":  0,
+                         "likeCount":  0,
+                         "followCount":  0,
+                         "createdAtUtc":  "2026-03-01T00:00:00Z",
+                         "updatedAtUtc":  "2026-03-01T00:00:00Z"
+                     },
+                     {
+                         "id":  "sonic.bapbap.hidden-dev-arguments",
+                         "type":  "mod",
+                         "name":  "BAPBAP Hidden Dev Arguments",
+                         "summary":  "Full native argument catalog and arena category integration.",
+                         "description":  "Standalone mod that extends hidden/dev argument access and category integration for BAPBAP.",
+                         "imagePath":  "../../assets/packages/welcome-cover.png",
+                         "packageManifestPath":  "sonic.bapbap.hidden-dev-arguments/package.json",
+                         "tags":  [
+                                      "mod",
+                                      "dev",
+                                      "arguments",
+                                      "arena"
+                                  ],
+                         "featured":  false,
+                         "featuredRank":  0,
+                         "downloadCount":  0,
+                         "likeCount":  0,
+                         "followCount":  0,
+                         "createdAtUtc":  "2026-03-02T00:34:00Z",
+                         "updatedAtUtc":  "2026-03-02T00:34:00Z"
+                     },
+                     {
+                         "id":  "sonic.bapbap.pool-randomizer",
+                         "type":  "mod",
+                         "name":  "BAPBAP Pool Randomizer",
+                         "summary":  "Rarity-aware randomizer across vanilla, legacy and hidden pools.",
+                         "description":  "Standalone pool randomizer for BAPBAP with tier-aware replacement and broad candidate coverage.",
+                         "imagePath":  "../../assets/packages/welcome-cover.png",
+                         "packageManifestPath":  "sonic.bapbap.pool-randomizer/package.json",
+                         "tags":  [
+                                      "mod",
+                                      "randomizer",
+                                      "pool",
+                                      "qol"
+                                  ],
+                         "featured":  false,
+                         "featuredRank":  0,
+                         "downloadCount":  0,
+                         "likeCount":  0,
+                         "followCount":  0,
+                         "createdAtUtc":  "2026-03-02T00:34:00Z",
+                         "updatedAtUtc":  "2026-03-02T00:34:00Z"
+                     },
+                     {
+                         "id":  "sonic.bapbap.hp-numbers",
+                         "type":  "mod",
+                         "name":  "BAPBAP HP Numbers",
+                         "summary":  "Displays live HP values on health bars.",
+                         "description":  "Standalone HP numbers overlay mod for BAPBAP with in-match value updates.",
+                         "imagePath":  "../../assets/packages/welcome-cover.png",
+                         "packageManifestPath":  "sonic.bapbap.hp-numbers/package.json",
+                         "tags":  [
+                                      "mod",
+                                      "ui",
+                                      "hp",
+                                      "qol"
+                                  ],
+                         "featured":  false,
+                         "featuredRank":  0,
+                         "downloadCount":  0,
+                         "likeCount":  0,
+                         "followCount":  0,
+                         "createdAtUtc":  "2026-03-02T00:34:00Z",
+                         "updatedAtUtc":  "2026-03-02T00:34:00Z"
+                     },
+                     {
+                         "id":  "sonic.bapbap.arena-random-chars",
+                         "type":  "mod",
+                         "name":  "BAPBAP Arena Random Chars",
+                         "summary":  "Random character assignment for arena rounds.",
+                         "description":  "Standalone arena random character mod that rotates characters during active arena matches.",
+                         "imagePath":  "../../assets/packages/welcome-cover.png",
+                         "packageManifestPath":  "sonic.bapbap.arena-random-chars/package.json",
+                         "tags":  [
+                                      "mod",
+                                      "arena",
+                                      "characters",
+                                      "random"
+                                  ],
+                         "featured":  false,
+                         "featuredRank":  0,
+                         "downloadCount":  0,
+                         "likeCount":  0,
+                         "followCount":  0,
+                         "createdAtUtc":  "2026-03-02T00:34:00Z",
+                         "updatedAtUtc":  "2026-03-02T00:34:00Z"
+                     }
+                 ]
 }

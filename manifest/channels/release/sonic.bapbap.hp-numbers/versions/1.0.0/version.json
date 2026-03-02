@@ -1,0 +1,16 @@
+﻿{
+    "schemaVersion":  1,
+    "id":  "sonic.bapbap.hp-numbers",
+    "version":  "1.0.0",
+    "allowedExtraTargets":  [
+
+                            ],
+    "files":  [
+                  {
+                      "sourcePath":  "files/BAPBAPHpNumbers.dll",
+                      "targetPath":  "Mods/BAPBAPHpNumbers.dll",
+                      "sha256":  "85169d2ecd5f119a122b8effd7b00f179b616a4a31beaf30df0fa7374151c139",
+                      "description":  "Main mod dll"
+                  }
+              ]
+}

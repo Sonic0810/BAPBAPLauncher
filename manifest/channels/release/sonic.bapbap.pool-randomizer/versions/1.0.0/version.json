@@ -1,0 +1,16 @@
+﻿{
+    "schemaVersion":  1,
+    "id":  "sonic.bapbap.pool-randomizer",
+    "version":  "1.0.0",
+    "allowedExtraTargets":  [
+
+                            ],
+    "files":  [
+                  {
+                      "sourcePath":  "files/BAPBAPPoolRandomizer.dll",
+                      "targetPath":  "Mods/BAPBAPPoolRandomizer.dll",
+                      "sha256":  "8cf074b088c230e9967f12003993fdca94aeb9fc4faa224f5d687054bce5baeb",
+                      "description":  "Main mod dll"
+                  }
+              ]
+}

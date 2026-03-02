@@ -1,0 +1,16 @@
+﻿{
+    "schemaVersion":  1,
+    "id":  "sonic.bapbap.hidden-dev-arguments",
+    "version":  "1.0.0",
+    "allowedExtraTargets":  [
+
+                            ],
+    "files":  [
+                  {
+                      "sourcePath":  "files/BAPBAPHiddenDevArguments.dll",
+                      "targetPath":  "Mods/BAPBAPHiddenDevArguments.dll",
+                      "sha256":  "9bf05cc12d7db730c1dd43bbce09d7afe73ffd8ebe6836406603215e40cd7f0f",
+                      "description":  "Main mod dll"
+                  }
+              ]
+}

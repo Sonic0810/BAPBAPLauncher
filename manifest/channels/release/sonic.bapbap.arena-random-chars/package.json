@@ -1,0 +1,54 @@
+﻿{
+    "schemaVersion":  1,
+    "id":  "sonic.bapbap.arena-random-chars",
+    "type":  "mod",
+    "name":  "BAPBAP Arena Random Chars",
+    "summary":  "Random character assignment for arena rounds.",
+    "description":  "Standalone arena random character mod that rotates characters during active arena matches.",
+    "imagePath":  "../../../assets/packages/welcome-cover.png",
+    "gallery":  [
+
+                ],
+    "authors":  [
+                    {
+                        "id":  "sonic0810",
+                        "name":  "Sonic0810",
+                        "profileUrl":  "https://github.com/Sonic0810",
+                        "role":  "Owner"
+                    }
+                ],
+    "owner":  {
+                  "name":  "Sonic0810",
+                  "profileUrl":  "https://github.com/Sonic0810"
+              },
+    "tags":  [
+                 "mod",
+                 "arena",
+                 "characters",
+                 "random"
+             ],
+    "requirements":  [
+                         {
+                             "id":  "melonloader-required",
+                             "text":  "MelonLoader 0.7.2-ci.2388 is required for managed installs.",
+                             "type":  "melonloader_version",
+                             "value":  "0.7.2-ci.2388",
+                             "severity":  "warning"
+                         }
+                     ],
+    "latestVersion":  "1.0.0",
+    "metrics":  {
+                    "downloadCount":  0,
+                    "likeCount":  0,
+                    "followCount":  0,
+                    "createdAtUtc":  "2026-03-02T00:33:37Z",
+                    "updatedAtUtc":  "2026-03-02T00:33:37Z"
+                },
+    "versions":  [
+                     {
+                         "version":  "1.0.0",
+                         "changelog":  "Initial launcher release",
+                         "versionManifestPath":  "versions/1.0.0/version.json"
+                     }
+                 ]
+}

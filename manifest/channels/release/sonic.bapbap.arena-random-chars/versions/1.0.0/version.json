@@ -1,0 +1,16 @@
+﻿{
+    "schemaVersion":  1,
+    "id":  "sonic.bapbap.arena-random-chars",
+    "version":  "1.0.0",
+    "allowedExtraTargets":  [
+
+                            ],
+    "files":  [
+                  {
+                      "sourcePath":  "files/BAPBAPArenaRandomChars.dll",
+                      "targetPath":  "Mods/BAPBAPArenaRandomChars.dll",
+                      "sha256":  "c5d882c4e04d0d603458000fe2f17c5c05359f91ad5e2423ed7aa8d223500587",
+                      "description":  "Main mod dll"
+                  }
+              ]
+}
