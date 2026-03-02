@@ -116,7 +116,7 @@
                          "name":  "BR UI (Old But Gold)",
                          "summary":  "Restores the classic Battle Royale style UI.",
                          "description":  "Adds the old Battle Royale HUD/UI style back into BAPBAP.",
-                         "imagePath":  "../../assets/packages/welcome-cover.png",
+                         "imagePath":  "../../assets/packages/oldgold.png",
                          "packageManifestPath":  "sonic.bapbap.br-ui-old-but-gold/package.json",
                          "tags":  [
                                       "mod",
@@ -130,7 +130,7 @@
                          "likeCount":  0,
                          "followCount":  0,
                          "createdAtUtc":  "2026-03-02T11:19:23Z",
-                         "updatedAtUtc":  "2026-03-02T11:19:23Z"
+                         "updatedAtUtc":  "2026-03-02T11:29:12Z"
                      },
                      {
                          "id":  "sonic.bapbap.fps-camera",
@@ -138,7 +138,7 @@
                          "name":  "BAPFPS (First/Third Person)",
                          "summary":  "Enables first-person and third-person camera gameplay.",
                          "description":  "Camera mod that enables switching into first-person and third-person perspectives.",
-                         "imagePath":  "../../assets/packages/welcome-cover.png",
+                         "imagePath":  "../../assets/packages/fps.png",
                          "packageManifestPath":  "sonic.bapbap.fps-camera/package.json",
                          "tags":  [
                                       "mod",
@@ -152,7 +152,7 @@
                          "likeCount":  0,
                          "followCount":  0,
                          "createdAtUtc":  "2026-03-02T11:19:23Z",
-                         "updatedAtUtc":  "2026-03-02T11:19:23Z"
+                         "updatedAtUtc":  "2026-03-02T11:29:12Z"
                      }
                  ]
 }

@@ -5,9 +5,9 @@
     "name":  "BAPFPS (First/Third Person)",
     "summary":  "Enables first-person and third-person camera gameplay.",
     "description":  "Camera mod that enables switching into first-person and third-person perspectives.",
-    "imagePath":  "../../../assets/packages/welcome-cover.png",
+    "imagePath":  "../../../assets/packages/fps.png",
     "gallery":  [
-
+                    "../../../assets/packages/fps.png"
                 ],
     "authors":  [
                     {
@@ -42,7 +42,7 @@
                     "likeCount":  0,
                     "followCount":  0,
                     "createdAtUtc":  "2026-03-02T11:19:23Z",
-                    "updatedAtUtc":  "2026-03-02T11:19:23Z"
+                    "updatedAtUtc":  "2026-03-02T11:29:12Z"
                 },
     "versions":  [
                      {

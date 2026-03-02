@@ -5,9 +5,9 @@
     "name":  "BR UI (Old But Gold)",
     "summary":  "Restores the classic Battle Royale style UI.",
     "description":  "Adds the old Battle Royale HUD/UI style back into BAPBAP.",
-    "imagePath":  "../../../assets/packages/welcome-cover.png",
+    "imagePath":  "../../../assets/packages/oldgold.png",
     "gallery":  [
-
+                    "../../../assets/packages/oldgold.png"
                 ],
     "authors":  [
                     {
@@ -42,7 +42,7 @@
                     "likeCount":  0,
                     "followCount":  0,
                     "createdAtUtc":  "2026-03-02T11:19:23Z",
-                    "updatedAtUtc":  "2026-03-02T11:19:23Z"
+                    "updatedAtUtc":  "2026-03-02T11:29:12Z"
                 },
     "versions":  [
                      {
