@@ -50,5 +50,10 @@
                          "changelog":  "Initial launcher release",
                          "versionManifestPath":  "versions/1.0.0/version.json"
                      }
-                 ]
+                 ],
+    "visual":  {
+                   "tags":  [
+                                "hidden_ember"
+                            ]
+               }
 }

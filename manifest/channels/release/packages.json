@@ -25,14 +25,14 @@
                          "updatedAtUtc":  "2026-03-02T00:34:00Z",
                          "visual":  {
                                         "preset":  "shiny",
-                                        "tags":  [
-                                                     "shiny"
-                                                 ],
                                         "frame":  {
                                                       "borderColor":  "#f59e0b",
                                                       "glowColor":  "#f59e0b",
                                                       "pulse":  true
-                                                  }
+                                                  },
+                                        "tags":  [
+                                                     "hidden_shiny"
+                                                 ]
                                     }
                      },
                      {
@@ -55,7 +55,12 @@
                          "likeCount":  0,
                          "followCount":  0,
                          "createdAtUtc":  "2026-03-02T00:34:00Z",
-                         "updatedAtUtc":  "2026-03-02T00:34:00Z"
+                         "updatedAtUtc":  "2026-03-02T00:34:00Z",
+                         "visual":  {
+                                        "tags":  [
+                                                     "hidden_holo"
+                                                 ]
+                                    }
                      },
                      {
                          "id":  "sonic.bapbap.hp-numbers",
@@ -77,7 +82,12 @@
                          "likeCount":  0,
                          "followCount":  0,
                          "createdAtUtc":  "2026-03-02T00:34:00Z",
-                         "updatedAtUtc":  "2026-03-02T12:13:27Z"
+                         "updatedAtUtc":  "2026-03-02T12:13:27Z",
+                         "visual":  {
+                                        "tags":  [
+                                                     "hidden_neon"
+                                                 ]
+                                    }
                      },
                      {
                          "id":  "sonic.bapbap.arena-random-chars",
@@ -99,7 +109,12 @@
                          "likeCount":  0,
                          "followCount":  0,
                          "createdAtUtc":  "2026-03-02T00:34:00Z",
-                         "updatedAtUtc":  "2026-03-02T00:34:00Z"
+                         "updatedAtUtc":  "2026-03-02T00:34:00Z",
+                         "visual":  {
+                                        "tags":  [
+                                                     "hidden_frost"
+                                                 ]
+                                    }
                      },
                      {
                          "id":  "sonic.bapbap.br-ui-old-but-gold",
@@ -121,7 +136,12 @@
                          "likeCount":  0,
                          "followCount":  0,
                          "createdAtUtc":  "2026-03-02T11:19:23Z",
-                         "updatedAtUtc":  "2026-03-02T11:29:12Z"
+                         "updatedAtUtc":  "2026-03-02T11:29:12Z",
+                         "visual":  {
+                                        "tags":  [
+                                                     "hidden_ember"
+                                                 ]
+                                    }
                      },
                      {
                          "id":  "sonic.bapbap.fps-camera",
