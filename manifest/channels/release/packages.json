@@ -1,201 +1,184 @@
-﻿{
-    "schemaVersion":  1,
-    "channelId":  "release",
-    "packages":  [
-                     {
-                         "id":  "sonic.bapbap.hidden-dev-arguments",
-                         "type":  "mod",
-                         "name":  "BAPBAP Hidden Dev Arguments",
-                         "summary":  "Enabled you to see all Dev/BR Items/Arguments.",
-                         "description":  "Gives you a lot more items and arguments inside of the game.",
-                         "imagePath":  "../../assets/packages/welcome-cover.png",
-                         "packageManifestPath":  "sonic.bapbap.hidden-dev-arguments/package.json",
-                         "tags":  [
-                                      "mod",
-                                      "dev",
-                                      "arguments",
-                                      "arena"
-                                  ],
-                         "featured":  false,
-                         "featuredRank":  0,
-                         "downloadCount":  0,
-                         "likeCount":  0,
-                         "followCount":  0,
-                         "createdAtUtc":  "2026-03-02T00:34:00Z",
-                         "updatedAtUtc":  "2026-03-02T00:34:00Z",
-                         "visual":  {
-                                        "preset":  "shiny",
-                                        "frame":  {
-                                                      "borderColor":  "#f59e0b",
-                                                      "glowColor":  "#f59e0b",
-                                                      "pulse":  true
-                                                  },
-                                        "tags":  [
-                                                     "hidden_shiny"
-                                                 ]
-                                    }
-                     },
-                     {
-                         "id":  "sonic.bapbap.pool-randomizer",
-                         "type":  "mod",
-                         "name":  "BAPBAP Pool Randomizer",
-                         "summary":  "Randomize nearly everything.",
-                         "description":  "Makes every argument and Items random (might be needed for devArguments).",
-                         "imagePath":  "../../assets/packages/welcome-cover.png",
-                         "packageManifestPath":  "sonic.bapbap.pool-randomizer/package.json",
-                         "tags":  [
-                                      "mod",
-                                      "randomizer",
-                                      "pool",
-                                      "qol"
-                                  ],
-                         "featured":  false,
-                         "featuredRank":  0,
-                         "downloadCount":  0,
-                         "likeCount":  0,
-                         "followCount":  0,
-                         "createdAtUtc":  "2026-03-02T00:34:00Z",
-                         "updatedAtUtc":  "2026-03-02T00:34:00Z",
-                         "visual":  {
-                                        "tags":  [
-                                                     "hidden_holo"
-                                                 ]
-                                    }
-                     },
-                     {
-                         "id":  "sonic.bapbap.hp-numbers",
-                         "type":  "mod",
-                         "name":  "BAPBAP HP Numbers",
-                         "summary":  "Displays live HP values on health bars.",
-                         "description":  "Standalone HP numbers overlay mod for BAPBAP.",
-                         "imagePath":  "../../assets/packages/welcome-cover.png",
-                         "packageManifestPath":  "sonic.bapbap.hp-numbers/package.json",
-                         "tags":  [
-                                      "mod",
-                                      "ui",
-                                      "hp",
-                                      "qol"
-                                  ],
-                         "featured":  false,
-                         "featuredRank":  0,
-                         "downloadCount":  0,
-                         "likeCount":  0,
-                         "followCount":  0,
-                         "createdAtUtc":  "2026-03-02T00:34:00Z",
-                         "updatedAtUtc":  "2026-03-02T12:13:27Z",
-                         "visual":  {
-                                        "tags":  [
-                                                     "hidden_neon"
-                                                 ]
-                                    }
-                     },
-                     {
-                         "id":  "sonic.bapbap.arena-random-chars",
-                         "type":  "mod",
-                         "name":  "BAPBAP Arena Random Chars",
-                         "summary":  "Random character assignment for rounds.",
-                         "description":  "Random character mod that rotates characters after a round ends.",
-                         "imagePath":  "../../assets/packages/welcome-cover.png",
-                         "packageManifestPath":  "sonic.bapbap.arena-random-chars/package.json",
-                         "tags":  [
-                                      "mod",
-                                      "arena",
-                                      "characters",
-                                      "random"
-                                  ],
-                         "featured":  false,
-                         "featuredRank":  0,
-                         "downloadCount":  0,
-                         "likeCount":  0,
-                         "followCount":  0,
-                         "createdAtUtc":  "2026-03-02T00:34:00Z",
-                         "updatedAtUtc":  "2026-03-02T00:34:00Z",
-                         "visual":  {
-                                        "tags":  [
-                                                     "hidden_frost"
-                                                 ]
-                                    }
-                     },
-                     {
-                         "id":  "sonic.bapbap.br-ui-old-but-gold",
-                         "type":  "mod",
-                         "name":  "BR UI (Old But Gold)",
-                         "summary":  "Restores the classic Battle Royale style UI.",
-                         "description":  "Adds the old Battle Royale HUD/UI style back into BAPBAP.",
-                         "imagePath":  "../../assets/packages/oldgold.png",
-                         "packageManifestPath":  "sonic.bapbap.br-ui-old-but-gold/package.json",
-                         "tags":  [
-                                      "mod",
-                                      "ui",
-                                      "battle-royale",
-                                      "legacy"
-                                  ],
-                         "featured":  false,
-                         "featuredRank":  0,
-                         "downloadCount":  0,
-                         "likeCount":  0,
-                         "followCount":  0,
-                         "createdAtUtc":  "2026-03-02T11:19:23Z",
-                         "updatedAtUtc":  "2026-03-02T11:29:12Z",
-                         "visual":  {
-                                        "tags":  [
-                                                     "hidden_ember"
-                                                 ]
-                                    }
-                     },
-                     {
-                         "id":  "sonic.bapbap.fps-camera",
-                         "type":  "mod",
-                         "name":  "BAPFPS (First/Third Person)",
-                         "summary":  "Enables first-person and third-person camera gameplay.",
-                         "description":  "Camera mod that enables switching into first-person and third-person perspectives.",
-                         "imagePath":  "../../assets/packages/fps.png",
-                         "packageManifestPath":  "sonic.bapbap.fps-camera/package.json",
-                         "tags":  [
-                                      "mod",
-                                      "camera",
-                                      "first-person",
-                                      "third-person"
-                                  ],
-                         "featured":  false,
-                         "featuredRank":  0,
-                         "downloadCount":  0,
-                         "likeCount":  0,
-                         "followCount":  0,
-                         "createdAtUtc":  "2026-03-02T11:19:23Z",
-                         "updatedAtUtc":  "2026-03-02T11:29:12Z",
-                         "visual":  {
-                                        "tags":  [
-                                                     "hidden_prism"
-                                                 ]
-                                    }
-                     },
-                     {
-                         "id":  "sonic.bapbap.asset-dumper",
-                         "type":  "tool",
-                         "name":  "BAPBAP Asset Dumper",
-                         "summary":  "Dump assets, icons and sounds from BAPBAP into a local folder.",
-                         "description":  "If you want all assets, icons and sounds inside of the game, use this tool/mod to dump them into a folder so you can reuse them. Ingame press F8 to open the UI. The mod creates a dump folder inside your BAPBAP game folder. Audio files are exported as .banks and can be converted with FMOD Bank Tools: https://github.com/Wouldubeinta/Fmod-Bank-Tools/releases",
-                         "imagePath":  "../../assets/packages/assetdumper.png",
-                         "packageManifestPath":  "sonic.bapbap.asset-dumper/package.json",
-                         "tags":  [
-                                      "tool",
-                                      "asset-dump",
-                                      "modding",
-                                      "audio"
-                                  ],
-                         "featured":  false,
-                         "featuredRank":  0,
-                         "downloadCount":  0,
-                         "likeCount":  0,
-                         "followCount":  0,
-                         "createdAtUtc":  "2026-03-02T13:37:04Z",
-                         "updatedAtUtc":  "2026-03-02T13:37:04Z",
-                         "visual":  {
-                                        "tags":  [
-                                                     "hidden_glitch"
-                                                 ]
-                                    }
-                     }
-                 ]
+{
+  "schemaVersion": 1,
+  "channelId": "release",
+  "packages": [
+    {
+      "id": "sonic.bapbap.hidden-dev-arguments",
+      "type": "mod",
+      "name": "BAPBAP Hidden Dev Arguments",
+      "summary": "Full native argument catalog and arena category integration.",
+      "description": "Standalone mod that extends hidden/dev argument access and category integration for BAPBAP.",
+      "imagePath": "../../assets/packages/devarg.png",
+      "packageManifestPath": "sonic.bapbap.hidden-dev-arguments/package.json",
+      "tags": [
+        "mod",
+        "dev",
+        "arguments",
+        "arena"
+      ],
+      "featured": false,
+      "featuredRank": 0,
+      "downloadCount": 0,
+      "likeCount": 0,
+      "followCount": 0,
+      "createdAtUtc": "2026-03-02T00:34:00Z",
+      "updatedAtUtc": "2026-03-02T00:34:00Z",
+      "visual": {
+        "preset": "shiny",
+        "frame": {
+          "borderColor": "#f59e0b",
+          "glowColor": "#f59e0b",
+          "pulse": true
+        },
+        "tags": [
+          "hidden_shiny"
+        ]
+      },
+      "thumbnailPath": "../../assets/packages/devarg.png"
+    },
+    {
+      "id": "sonic.bapbap.pool-randomizer",
+      "type": "mod",
+      "name": "BAPBAP Pool Randomizer",
+      "summary": "Rarity-aware randomizer across vanilla, legacy and hidden pools.",
+      "description": "Standalone pool randomizer for BAPBAP with tier-aware replacement and broad candidate coverage.",
+      "imagePath": "../../assets/packages/refresh.png",
+      "packageManifestPath": "sonic.bapbap.pool-randomizer/package.json",
+      "tags": [
+        "mod",
+        "randomizer",
+        "pool",
+        "qol"
+      ],
+      "featured": false,
+      "featuredRank": 0,
+      "downloadCount": 0,
+      "likeCount": 0,
+      "followCount": 0,
+      "createdAtUtc": "2026-03-02T00:34:00Z",
+      "updatedAtUtc": "2026-03-02T00:34:00Z",
+      "visual": {},
+      "thumbnailPath": "../../assets/packages/refresh.png"
+    },
+    {
+      "id": "sonic.bapbap.hp-numbers",
+      "type": "mod",
+      "name": "BAPBAP HP Numbers",
+      "summary": "Displays live HP values on health bars.",
+      "description": "Standalone HP numbers overlay mod for BAPBAP with in-match value updates.",
+      "imagePath": "../../assets/packages/hpnumber.png",
+      "packageManifestPath": "sonic.bapbap.hp-numbers/package.json",
+      "tags": [
+        "mod",
+        "ui",
+        "hp",
+        "qol"
+      ],
+      "featured": false,
+      "featuredRank": 0,
+      "downloadCount": 0,
+      "likeCount": 0,
+      "followCount": 0,
+      "createdAtUtc": "2026-03-02T00:34:00Z",
+      "updatedAtUtc": "2026-03-02T12:13:27Z",
+      "visual": {},
+      "thumbnailPath": "../../assets/packages/hpnumber.png"
+    },
+    {
+      "id": "sonic.bapbap.arena-random-chars",
+      "type": "mod",
+      "name": "BAPBAP Arena Random Chars",
+      "summary": "Random character assignment for arena rounds.",
+      "description": "Standalone arena random character mod that rotates characters during active arena matches.",
+      "imagePath": "../../assets/packages/randomchar.png",
+      "packageManifestPath": "sonic.bapbap.arena-random-chars/package.json",
+      "tags": [
+        "mod",
+        "arena",
+        "characters",
+        "random"
+      ],
+      "featured": false,
+      "featuredRank": 0,
+      "downloadCount": 0,
+      "likeCount": 0,
+      "followCount": 0,
+      "createdAtUtc": "2026-03-02T00:34:00Z",
+      "updatedAtUtc": "2026-03-02T00:34:00Z",
+      "visual": {},
+      "thumbnailPath": "../../assets/packages/randomchar.png"
+    },
+    {
+      "id": "sonic.bapbap.br-ui-old-but-gold",
+      "type": "mod",
+      "name": "BR UI (Old But Gold)",
+      "summary": "Restores the classic Battle Royale style UI.",
+      "description": "Adds the old Battle Royale HUD/UI style back into BAPBAP.",
+      "imagePath": "../../assets/packages/oldgold.png",
+      "packageManifestPath": "sonic.bapbap.br-ui-old-but-gold/package.json",
+      "tags": [
+        "mod",
+        "ui",
+        "battle-royale",
+        "legacy"
+      ],
+      "featured": false,
+      "featuredRank": 0,
+      "downloadCount": 0,
+      "likeCount": 0,
+      "followCount": 0,
+      "createdAtUtc": "2026-03-02T11:19:23Z",
+      "updatedAtUtc": "2026-03-02T11:29:12Z",
+      "visual": {},
+      "thumbnailPath": "../../assets/packages/oldgold.png"
+    },
+    {
+      "id": "sonic.bapbap.fps-camera",
+      "type": "mod",
+      "name": "BAPFPS (First/Third Person)",
+      "summary": "Enables first-person and third-person camera gameplay.",
+      "description": "Camera mod that enables switching into first-person and third-person perspectives.",
+      "imagePath": "../../assets/packages/fps.png",
+      "packageManifestPath": "sonic.bapbap.fps-camera/package.json",
+      "tags": [
+        "mod",
+        "camera",
+        "first-person",
+        "third-person"
+      ],
+      "featured": false,
+      "featuredRank": 0,
+      "downloadCount": 0,
+      "likeCount": 0,
+      "followCount": 0,
+      "createdAtUtc": "2026-03-02T11:19:23Z",
+      "updatedAtUtc": "2026-03-02T11:29:12Z",
+      "visual": {},
+      "thumbnailPath": "../../assets/packages/fps.png"
+    },
+    {
+      "id": "sonic.bapbap.asset-dumper",
+      "type": "tool",
+      "name": "BAPBAP Asset Dumper",
+      "summary": "Dump assets, icons and sounds from BAPBAP into a local folder.",
+      "description": "If you want all assets, icons and sounds inside of the game, use this tool/mod to dump them into a folder so you can reuse them. Ingame press F8 to open the UI. The mod creates a dump folder inside your BAPBAP game folder. Audio files are exported as .banks and can be converted with FMOD Bank Tools: https://github.com/Wouldubeinta/Fmod-Bank-Tools/releases",
+      "imagePath": "../../assets/packages/assetdumper.png",
+      "packageManifestPath": "sonic.bapbap.asset-dumper/package.json",
+      "tags": [
+        "tool",
+        "asset-dump",
+        "modding",
+        "audio"
+      ],
+      "featured": false,
+      "featuredRank": 0,
+      "downloadCount": 0,
+      "likeCount": 0,
+      "followCount": 0,
+      "createdAtUtc": "2026-03-02T13:37:04Z",
+      "updatedAtUtc": "2026-03-02T13:37:04Z",
+      "visual": {},
+      "thumbnailPath": "../../assets/packages/assetdumper.png"
+    }
+  ]
 }
