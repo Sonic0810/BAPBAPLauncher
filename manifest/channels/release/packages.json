@@ -6,8 +6,8 @@
                          "id":  "sonic.bapbap.hidden-dev-arguments",
                          "type":  "mod",
                          "name":  "BAPBAP Hidden Dev Arguments",
-                         "summary":  "Full native argument catalog and arena category integration.",
-                         "description":  "Standalone mod that extends hidden/dev argument access and category integration for BAPBAP.",
+                         "summary":  "Enabled you to see all Dev/BR Items/Arguments.",
+                         "description":  "Gives you a lot more items and arguments inside of the game.",
                          "imagePath":  "../../assets/packages/welcome-cover.png",
                          "packageManifestPath":  "sonic.bapbap.hidden-dev-arguments/package.json",
                          "tags":  [
@@ -39,8 +39,8 @@
                          "id":  "sonic.bapbap.pool-randomizer",
                          "type":  "mod",
                          "name":  "BAPBAP Pool Randomizer",
-                         "summary":  "Rarity-aware randomizer across vanilla, legacy and hidden pools.",
-                         "description":  "Standalone pool randomizer for BAPBAP with tier-aware replacement and broad candidate coverage.",
+                         "summary":  "Randomize nearly everything.",
+                         "description":  "Makes every argument and Items random (might be needed for devArguments).",
                          "imagePath":  "../../assets/packages/welcome-cover.png",
                          "packageManifestPath":  "sonic.bapbap.pool-randomizer/package.json",
                          "tags":  [
@@ -67,7 +67,7 @@
                          "type":  "mod",
                          "name":  "BAPBAP HP Numbers",
                          "summary":  "Displays live HP values on health bars.",
-                         "description":  "Standalone HP numbers overlay mod for BAPBAP with in-match value updates.",
+                         "description":  "Standalone HP numbers overlay mod for BAPBAP.",
                          "imagePath":  "../../assets/packages/welcome-cover.png",
                          "packageManifestPath":  "sonic.bapbap.hp-numbers/package.json",
                          "tags":  [
@@ -93,8 +93,8 @@
                          "id":  "sonic.bapbap.arena-random-chars",
                          "type":  "mod",
                          "name":  "BAPBAP Arena Random Chars",
-                         "summary":  "Random character assignment for arena rounds.",
-                         "description":  "Standalone arena random character mod that rotates characters during active arena matches.",
+                         "summary":  "Random character assignment for rounds.",
+                         "description":  "Random character mod that rotates characters after a round ends.",
                          "imagePath":  "../../assets/packages/welcome-cover.png",
                          "packageManifestPath":  "sonic.bapbap.arena-random-chars/package.json",
                          "tags":  [
