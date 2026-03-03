@@ -1,4 +1,4 @@
-﻿{
+{
   "schemaVersion": 1,
   "id": "sonic.bapbap.asset-dumper",
   "type": "tool",
@@ -27,11 +27,7 @@
     "modding",
     "audio"
   ],
-  "visual": {
-    "tags": [
-      "hidden_glitch"
-    ]
-  },
+  "visual": {},
   "requirements": [
     {
       "id": "melonloader-required",
@@ -55,5 +51,6 @@
       "changelog": "Initial launcher release",
       "versionManifestPath": "versions/1.0.0/version.json"
     }
-  ]
+  ],
+  "thumbnailPath": "../../../assets/packages/assetdumper.png"
 }

@@ -1,59 +1,56 @@
-﻿{
-    "schemaVersion":  1,
-    "id":  "sonic.bapbap.br-ui-old-but-gold",
-    "type":  "mod",
-    "name":  "BR UI (Old But Gold)",
-    "summary":  "Restores the classic Battle Royale style UI.",
-    "description":  "Adds the old Battle Royale HUD/UI style back into BAPBAP.",
-    "imagePath":  "../../../assets/packages/oldgold.png",
-    "gallery":  [
-                    "../../../assets/packages/oldgold.png"
-                ],
-    "authors":  [
-                    {
-                        "id":  "sonic0810",
-                        "name":  "Sonic0810",
-                        "profileUrl":  "https://github.com/Sonic0810",
-                        "role":  "Owner"
-                    }
-                ],
-    "owner":  {
-                  "name":  "Sonic0810",
-                  "profileUrl":  "https://github.com/Sonic0810"
-              },
-    "tags":  [
-                 "mod",
-                 "ui",
-                 "battle-royale",
-                 "legacy"
-             ],
-    "requirements":  [
-                         {
-                             "id":  "melonloader-required",
-                             "text":  "MelonLoader 0.7.2-ci.2388 is required for managed installs.",
-                             "type":  "melonloader_version",
-                             "value":  "0.7.2-ci.2388",
-                             "severity":  "warning"
-                         }
-                     ],
-    "latestVersion":  "1.0.0",
-    "metrics":  {
-                    "downloadCount":  0,
-                    "likeCount":  0,
-                    "followCount":  0,
-                    "createdAtUtc":  "2026-03-02T11:19:23Z",
-                    "updatedAtUtc":  "2026-03-02T11:29:12Z"
-                },
-    "versions":  [
-                     {
-                         "version":  "1.0.0",
-                         "changelog":  "Initial launcher release",
-                         "versionManifestPath":  "versions/1.0.0/version.json"
-                     }
-                 ],
-    "visual":  {
-                   "tags":  [
-                                "hidden_ember"
-                            ]
-               }
+{
+  "schemaVersion": 1,
+  "id": "sonic.bapbap.br-ui-old-but-gold",
+  "type": "mod",
+  "name": "BR UI (Old But Gold)",
+  "summary": "Restores the classic Battle Royale style UI.",
+  "description": "Adds the old Battle Royale HUD/UI style back into BAPBAP.",
+  "imagePath": "../../../assets/packages/oldgold.png",
+  "gallery": [
+    "../../../assets/packages/oldgold.png"
+  ],
+  "authors": [
+    {
+      "id": "sonic0810",
+      "name": "Sonic0810",
+      "profileUrl": "https://github.com/Sonic0810",
+      "role": "Owner"
+    }
+  ],
+  "owner": {
+    "name": "Sonic0810",
+    "profileUrl": "https://github.com/Sonic0810"
+  },
+  "tags": [
+    "mod",
+    "ui",
+    "battle-royale",
+    "legacy"
+  ],
+  "requirements": [
+    {
+      "id": "melonloader-required",
+      "text": "MelonLoader 0.7.2-ci.2388 is required for managed installs.",
+      "type": "melonloader_version",
+      "value": "0.7.2-ci.2388",
+      "severity": "warning"
+    }
+  ],
+  "latestVersion": "1.0.0",
+  "metrics": {
+    "downloadCount": 0,
+    "likeCount": 0,
+    "followCount": 0,
+    "createdAtUtc": "2026-03-02T11:19:23Z",
+    "updatedAtUtc": "2026-03-02T11:29:12Z"
+  },
+  "versions": [
+    {
+      "version": "1.0.0",
+      "changelog": "Initial launcher release",
+      "versionManifestPath": "versions/1.0.0/version.json"
+    }
+  ],
+  "visual": {},
+  "thumbnailPath": "../../../assets/packages/oldgold.png"
 }
