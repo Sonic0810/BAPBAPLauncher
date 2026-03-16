@@ -10,6 +10,8 @@
     }
   },
   "gameVersionsManifestPath": "game-versions.json",
+  "radioManifestPath": "radio/radio.json",
+  "launcherUpdatesManifestPath": "launcher-updates.json",
   "melonLoader": {
     "requiredVersion": "0.7.2-ci.2388",
     "x64": {
