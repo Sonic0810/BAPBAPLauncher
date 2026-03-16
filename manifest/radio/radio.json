@@ -2,6 +2,172 @@
   "schemaVersion": 1,
   "stationName": "BAPBAP Radio",
   "stationSubtitle": "Offline soundtrack station",
-  "libraryVersion": "1",
-  "tracks": []
+  "libraryVersion": "2",
+  "tracks": [
+    {
+      "id": "bapbap-lobby-music-chill",
+      "title": "BAPBAP Lobby Music Chill",
+      "artists": ["BAPBAP"],
+      "group": "Lobby",
+      "album": "Official soundtrack",
+      "durationMs": 112117,
+      "audioUrl": "tracks/bapbap_lobby_music_chill.wav",
+      "sha256": "06e37498d1de6972078bc23bfcc76780be3a11a300abd64c2357872bc1798c41",
+      "order": 1
+    },
+    {
+      "id": "barrio-cantina-rigtown-stages",
+      "title": "Barrio Cantina Rigtown Stages",
+      "artists": ["BAPBAP"],
+      "group": "Rigtown",
+      "album": "Official soundtrack",
+      "durationMs": 202057,
+      "audioUrl": "tracks/Barrio Cantina Rigtown stages.wav",
+      "sha256": "843e83d1cde9d8e1323644c79317d567fe2a0a2739cfdb08b83cc43de4d3cd94",
+      "order": 2
+    },
+    {
+      "id": "cave",
+      "title": "Cave",
+      "artists": ["BAPBAP"],
+      "group": "Stage",
+      "album": "Official soundtrack",
+      "durationMs": 228415,
+      "audioUrl": "tracks/cave.wav",
+      "sha256": "32d8320b7348668e87e454a510daa2a9cbdab9815ae86223f578fc0127c5509e",
+      "order": 3
+    },
+    {
+      "id": "dimension-atlantis",
+      "title": "Dimension Atlantis",
+      "artists": ["BAPBAP"],
+      "group": "Dimension",
+      "album": "Official soundtrack",
+      "durationMs": 53424,
+      "audioUrl": "tracks/dimension_atlantis_music.wav",
+      "sha256": "f0a200a018e010834134753db01183480446c1e11f684f5595f66499ceffac24",
+      "order": 4
+    },
+    {
+      "id": "dimension-atlantis-combat",
+      "title": "Dimension Atlantis Combat",
+      "artists": ["BAPBAP"],
+      "group": "Dimension",
+      "album": "Official soundtrack",
+      "durationMs": 53496,
+      "audioUrl": "tracks/dimension_atlantis_music_combat.wav",
+      "sha256": "833c775aa9053d5548b324e1064931a546b143e3c2375f6111397d11bbb19cae",
+      "order": 5
+    },
+    {
+      "id": "dimension-sin-city",
+      "title": "Dimension Sin City",
+      "artists": ["BAPBAP"],
+      "group": "Dimension",
+      "album": "Official soundtrack",
+      "durationMs": 43517,
+      "audioUrl": "tracks/dimension_sincity_music.wav",
+      "sha256": "2924c48e2b6ae844b4eadd09fc6fedb31b8ff3fd62f032345ed6626bf1adac92",
+      "order": 6
+    },
+    {
+      "id": "dimension-sin-city-drums",
+      "title": "Dimension Sin City Drums",
+      "artists": ["BAPBAP"],
+      "group": "Dimension",
+      "album": "Official soundtrack",
+      "durationMs": 43519,
+      "audioUrl": "tracks/dimension_sincity_music_drums.wav",
+      "sha256": "cf4016683d04f785999fccc586a7d7e17bfcedccbcb4ba1501a3c953dcbb6b2f",
+      "order": 7
+    },
+    {
+      "id": "dojo-stage",
+      "title": "Dojo Stage",
+      "artists": ["BAPBAP"],
+      "group": "Stage",
+      "album": "Official soundtrack",
+      "durationMs": 215092,
+      "audioUrl": "tracks/dojo stage.wav",
+      "sha256": "3d514ce10ecb6fbbc95289d87bf3b897c15f4ec0a029195b55a2de2d290ce64d",
+      "order": 8
+    },
+    {
+      "id": "floating-island-1",
+      "title": "Floating Island 1",
+      "artists": ["BAPBAP"],
+      "group": "Stage",
+      "album": "Official soundtrack",
+      "durationMs": 129925,
+      "audioUrl": "tracks/floating island 1.wav",
+      "sha256": "81db7b240d00147f9c09d064513b5b46891a220b9244cd0afa5a38d9d9264250",
+      "order": 9
+    },
+    {
+      "id": "floating-island-2",
+      "title": "Floating Island 2",
+      "artists": ["BAPBAP"],
+      "group": "Stage",
+      "album": "Official soundtrack",
+      "durationMs": 316500,
+      "audioUrl": "tracks/floating island 2.wav",
+      "sha256": "09ba000ed0bd92ba25669e81ab441737c7b4197d23c8f395437f290e4f5e9ceb",
+      "order": 10
+    },
+    {
+      "id": "worksite",
+      "title": "Worksite",
+      "artists": ["BAPBAP"],
+      "group": "Stage",
+      "album": "Official soundtrack",
+      "durationMs": 288000,
+      "audioUrl": "tracks/music_worksite.wav",
+      "sha256": "16180e193b6a2d55262c3a76b4eccc1a11a1b63e82c0d85eca944034540a2948",
+      "order": 11
+    },
+    {
+      "id": "night-lobby-v2",
+      "title": "Night Lobby V2",
+      "artists": ["BAPBAP"],
+      "group": "Lobby",
+      "album": "Official soundtrack",
+      "durationMs": 167865,
+      "audioUrl": "tracks/night_lobbyv2.wav",
+      "sha256": "0b6c1a895bcc97ac469b7c4ebca5c508f447cae0ebdaa70b3b4adfd26bbdc946",
+      "order": 12
+    },
+    {
+      "id": "slime-main-loop",
+      "title": "Slime Main Loop",
+      "artists": ["BAPBAP"],
+      "group": "Loop",
+      "album": "Official soundtrack",
+      "durationMs": 30677,
+      "audioUrl": "tracks/slime_main_loop.wav",
+      "sha256": "23272f18cc4b409770689e9a6f8251ea143f708d5a14f152e6053dad007d4801",
+      "order": 13
+    },
+    {
+      "id": "testtest",
+      "title": "Testtest",
+      "artists": ["BAPBAP"],
+      "group": "Misc",
+      "album": "Official soundtrack",
+      "durationMs": 98400,
+      "audioUrl": "tracks/testtest.wav",
+      "sha256": "b6b4864f864d4161d6922144a3aa9c15caf9f84e4444f7a05d53688d1a1cff02",
+      "order": 14
+    },
+    {
+      "id": "tutorial",
+      "title": "Tutorial",
+      "artists": ["BAPBAP"],
+      "group": "Tutorial",
+      "album": "Official soundtrack",
+      "durationMs": 155664,
+      "audioUrl": "tracks/tutorial.wav",
+      "sha256": "3410037dbd2fbcb4be651845cf18a940b3126dd0cc0ad85721572aea6885b7a9",
+      "order": 15
+    }
+  ]
 }
