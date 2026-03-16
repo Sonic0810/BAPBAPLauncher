@@ -1,5 +1,19 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "releases": []
+  "releases": [
+    {
+      "version": "0.1.0",
+      "channel": "stable",
+      "publishedAtUtc": "2026-03-16T00:00:00Z",
+      "notes": "Initial BAPBAP Launcher V2 release.",
+      "windows": {
+        "x64": {
+          "url": "https://github.com/Sonic0810/BAPBAPLauncher/releases/download/launcher-v0.1.0/BAPBAP.Launcher.V2.Setup.0.1.0.exe",
+          "sha256": "F11F439F20A790D2DD9902F8AA6550538BF1FE7480626A805EB73182E9DB9B73",
+          "fileName": "BAPBAP.Launcher.V2.Setup.0.1.0.exe"
+        }
+      }
+    }
+  ]
 }
