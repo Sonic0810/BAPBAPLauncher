@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "jackmygoodman.bapbap.boss-rush-qol",
+  "type": "mod",
+  "name": "BossRushQoL",
+  "summary": "Infinite Rerolls",
+  "description": "A QoL mod for the boss rush game mode, currently allows for unlimited rerolls inside of Boss Rush",
+  "imagePath": "../../../assets/packages/bossrush.jpg",
+  "gallery": [],
+  "authors": [
+    {
+      "id": "jackmygoodman",
+      "name": "JackMyGoodMan",
+      "role": "Owner"
+    }
+  ],
+  "owner": {
+    "name": "JackMyGoodMan"
+  },
+  "tags": [
+    "mod",
+    "boss-rush",
+    "qol",
+    "rerolls"
+  ],
+  "requirements": [
+    {
+      "id": "melonloader-required",
+      "text": "MelonLoader 0.7.2-ci.2388 is required for managed installs.",
+      "type": "melonloader_version",
+      "value": "0.7.2-ci.2388",
+      "severity": "warning"
+    }
+  ],
+  "latestVersion": "1.0.0",
+  "metrics": {
+    "downloadCount": 0,
+    "likeCount": 0,
+    "followCount": 0,
+    "createdAtUtc": "2026-03-18T23:22:35Z",
+    "updatedAtUtc": "2026-03-18T23:22:35Z"
+  },
+  "versions": [
+    {
+      "version": "1.0.0",
+      "changelog": "Initial launcher release",
+      "versionManifestPath": "versions/1.0.0/version.json"
+    }
+  ],
+  "visual": {},
+  "thumbnailPath": "../../../assets/packages/bossrush.jpg"
+}
