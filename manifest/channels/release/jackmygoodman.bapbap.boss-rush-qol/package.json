@@ -32,15 +32,20 @@
       "severity": "warning"
     }
   ],
-  "latestVersion": "1.0.0",
+  "latestVersion": "1.0.1",
   "metrics": {
     "downloadCount": 0,
     "likeCount": 0,
     "followCount": 0,
     "createdAtUtc": "2026-03-18T23:22:35Z",
-    "updatedAtUtc": "2026-03-18T23:22:35Z"
+    "updatedAtUtc": "2026-03-22T23:37:30Z"
   },
   "versions": [
+    {
+      "version": "1.0.1",
+      "changelog": "Updated Boss Rush QoL build",
+      "versionManifestPath": "versions/1.0.1/version.json"
+    },
     {
       "version": "1.0.0",
       "changelog": "Initial launcher release",
