@@ -60,7 +60,7 @@
       "type": "mod",
       "name": "BossRushQoL",
       "summary": "Infinite Rerolls",
-      "description": "A QoL mod for the boss rush game mode, currently allows for unlimited rerolls inside of Boss Rush",
+      "description": "A QoL mod for the boss rush gamemode which gives you unlimited rerolls and allows you to choose between 5 cards instead of 3 at once. Note: it might look buggy sometimes but works as intended",
       "imagePath": "../../assets/packages/bossrush.jpg",
       "packageManifestPath": "jackmygoodman.bapbap.boss-rush-qol/package.json",
       "tags": [
@@ -75,7 +75,7 @@
       "likeCount": 0,
       "followCount": 0,
       "createdAtUtc": "2026-03-18T23:22:35Z",
-      "updatedAtUtc": "2026-03-22T23:37:30Z",
+      "updatedAtUtc": "2026-03-22T23:42:33Z",
       "visual": {},
       "thumbnailPath": "../../assets/packages/bossrush.jpg"
     },
