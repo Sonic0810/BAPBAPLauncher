@@ -52,11 +52,7 @@
       "followCount": 0,
       "createdAtUtc": "2026-03-02T00:34:00Z",
       "updatedAtUtc": "2026-03-02T00:34:00Z",
-      "visual": {
-        "ribbonTags": [
-          "host-only"
-        ]
-      },
+      "visual": {},
       "thumbnailPath": "../../assets/packages/refresh.png"
     },
     {
@@ -128,7 +124,11 @@
       "followCount": 0,
       "createdAtUtc": "2026-03-02T00:34:00Z",
       "updatedAtUtc": "2026-03-02T00:34:00Z",
-      "visual": {},
+      "visual": {
+        "ribbonTags": [
+          "host-only"
+        ]
+      },
       "thumbnailPath": "../../assets/packages/randomchar.png"
     },
     {
