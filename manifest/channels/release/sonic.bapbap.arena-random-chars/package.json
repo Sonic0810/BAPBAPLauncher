@@ -3,8 +3,8 @@
   "id": "sonic.bapbap.arena-random-chars",
   "type": "mod",
   "name": "BAPBAP Random Chars",
-  "summary": "Host only.",
-  "description": "Everybody gets a new Char after each round! ",
+  "summary": "Random character assignment for arena rounds.",
+  "description": "Everybody gets a new character after each round. Host only.",
   "imagePath": "../../../assets/packages/randomchar.png",
   "gallery": [],
   "authors": [
@@ -49,6 +49,10 @@
       "versionManifestPath": "versions/1.0.0/version.json"
     }
   ],
-  "visual": {},
+  "visual": {
+    "ribbonTags": [
+      "host-only"
+    ]
+  },
   "thumbnailPath": "../../../assets/packages/randomchar.png"
 }
