@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "id": "jackmygoodman.bapbap.boss-rush-qol",
+  "version": "1.0.1",
+  "allowedExtraTargets": [],
+  "files": [
+    {
+      "sourcePath": "files/BossRushQoLMod.dll",
+      "targetPath": "Mods/BossRushQoLMod.dll",
+      "sha256": "052252c4641bac4283abb24793906fb6042375aa465e896475ded27b79b167bc",
+      "description": "Main mod dll"
+    }
+  ]
+}
