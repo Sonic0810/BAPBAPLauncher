@@ -10,6 +10,7 @@
       "description": "Standalone mod that extends hidden/dev argument access and category integration for BAPBAP.",
       "imagePath": "../../assets/packages/devarg.png",
       "packageManifestPath": "sonic.bapbap.hidden-dev-arguments/package.json",
+      "latestVersion": "1.0.0",
       "tags": [
         "mod",
         "dev",
@@ -39,6 +40,7 @@
       "description": "Standalone pool randomizer for BAPBAP with tier-aware replacement and broad candidate coverage.",
       "imagePath": "../../assets/packages/refresh.png",
       "packageManifestPath": "sonic.bapbap.pool-randomizer/package.json",
+      "latestVersion": "1.0.0",
       "tags": [
         "mod",
         "randomizer",
@@ -56,30 +58,6 @@
       "thumbnailPath": "../../assets/packages/refresh.png"
     },
     {
-      "id": "jackmygoodman.bapbap.boss-rush-qol",
-      "type": "mod",
-      "name": "BossRushQoL",
-      "summary": "Unlimited Rerolls + 5 Card Choices",
-      "description": "A QoL mod for the boss rush gamemode which gives you unlimited rerolls and allows you to choose between 5 cards instead of 3 at once. Note: it might look buggy sometimes but works as intended",
-      "imagePath": "../../assets/packages/bossrush.jpg",
-      "packageManifestPath": "jackmygoodman.bapbap.boss-rush-qol/package.json",
-      "tags": [
-        "mod",
-        "boss-rush",
-        "qol",
-        "rerolls"
-      ],
-      "featured": false,
-      "featuredRank": 0,
-      "downloadCount": 0,
-      "likeCount": 0,
-      "followCount": 0,
-      "createdAtUtc": "2026-03-18T23:22:35Z",
-      "updatedAtUtc": "2026-03-22T23:43:11Z",
-      "visual": {},
-      "thumbnailPath": "../../assets/packages/bossrush.jpg"
-    },
-    {
       "id": "sonic.bapbap.hp-numbers",
       "type": "mod",
       "name": "BAPBAP HP Numbers",
@@ -87,6 +65,7 @@
       "description": "Standalone HP numbers overlay mod for BAPBAP with in-match value updates.",
       "imagePath": "../../assets/packages/hpnumber.png",
       "packageManifestPath": "sonic.bapbap.hp-numbers/package.json",
+      "latestVersion": "1.0.1",
       "tags": [
         "mod",
         "ui",
@@ -111,6 +90,7 @@
       "description": "Standalone arena random character mod that rotates characters during active arena matches.",
       "imagePath": "../../assets/packages/randomchar.png",
       "packageManifestPath": "sonic.bapbap.arena-random-chars/package.json",
+      "latestVersion": "1.0.0",
       "tags": [
         "mod",
         "arena",
@@ -139,6 +119,7 @@
       "description": "Adds the old Battle Royale HUD/UI style back into BAPBAP.",
       "imagePath": "../../assets/packages/oldgold.png",
       "packageManifestPath": "sonic.bapbap.br-ui-old-but-gold/package.json",
+      "latestVersion": "1.0.0",
       "tags": [
         "mod",
         "ui",
@@ -168,6 +149,7 @@
       "description": "Camera mod that enables switching into first-person and third-person perspectives.",
       "imagePath": "../../assets/packages/fps.png",
       "packageManifestPath": "sonic.bapbap.fps-camera/package.json",
+      "latestVersion": "0.2.0",
       "tags": [
         "mod",
         "camera",
@@ -192,6 +174,7 @@
       "description": "If you want all assets, icons and sounds inside of the game, use this tool/mod to dump them into a folder so you can reuse them. Ingame press F8 to open the UI. The mod creates a dump folder inside your BAPBAP game folder. Audio files are exported as .banks and can be converted with FMOD Bank Tools: https://github.com/Wouldubeinta/Fmod-Bank-Tools/releases",
       "imagePath": "../../assets/packages/assetdumper.png",
       "packageManifestPath": "sonic.bapbap.asset-dumper/package.json",
+      "latestVersion": "1.0.0",
       "tags": [
         "tool",
         "asset-dump",
