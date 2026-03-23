@@ -51,6 +51,9 @@
   ],
   "visual": {
     "preset": "candy",
+    "ribbonTags": [
+      "host-only"
+    ],
     "tags": [
       "hidden_candy"
     ]
