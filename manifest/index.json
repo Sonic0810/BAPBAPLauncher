@@ -11,6 +11,7 @@
   },
   "gameVersionsManifestPath": "game-versions.json",
   "radioManifestPath": "radio/radio.json",
+  "timeSourceUrl": "https://raw.githubusercontent.com/Sonic0810/BAPBAPLauncher/main/manifest/index.json",
   "launcherUpdatesManifestPath": "launcher-updates.json",
   "melonLoader": {
     "requiredVersion": "0.7.2-ci.2388",
