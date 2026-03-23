@@ -23,6 +23,9 @@
     "qol",
     "rerolls"
   ],
+  "supportedTracks": [
+    "boss-rush"
+  ],
   "requirements": [
     {
       "id": "melonloader-required",

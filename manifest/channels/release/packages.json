@@ -26,6 +26,9 @@
       "updatedAtUtc": "2026-03-02T00:34:00Z",
       "visual": {
         "preset": "candy",
+        "ribbonTags": [
+          "host-only"
+        ],
         "tags": [
           "hidden_candy"
         ]
@@ -54,8 +57,40 @@
       "followCount": 0,
       "createdAtUtc": "2026-03-02T00:34:00Z",
       "updatedAtUtc": "2026-03-02T00:34:00Z",
-      "visual": {},
+      "visual": {
+        "ribbonTags": [
+          "host-only"
+        ]
+      },
       "thumbnailPath": "../../assets/packages/refresh.png"
+    },
+    {
+      "id": "jackmygoodman.bapbap.boss-rush-qol",
+      "type": "mod",
+      "name": "BossRushQoL",
+      "summary": "Unlimited Rerolls + 5 Card Choices",
+      "description": "A QoL mod for the boss rush gamemode which gives you unlimited rerolls and allows you to choose between 5 cards instead of 3 at once. Note: it might look buggy sometimes but works as intended",
+      "imagePath": "../../assets/packages/bossrush.jpg",
+      "packageManifestPath": "jackmygoodman.bapbap.boss-rush-qol/package.json",
+      "latestVersion": "1.0.1",
+      "supportedTracks": [
+        "boss-rush"
+      ],
+      "tags": [
+        "mod",
+        "boss-rush",
+        "qol",
+        "rerolls"
+      ],
+      "featured": false,
+      "featuredRank": 0,
+      "downloadCount": 0,
+      "likeCount": 0,
+      "followCount": 0,
+      "createdAtUtc": "2026-03-18T23:22:35Z",
+      "updatedAtUtc": "2026-03-22T23:43:11Z",
+      "visual": {},
+      "thumbnailPath": "../../assets/packages/bossrush.jpg"
     },
     {
       "id": "sonic.bapbap.hp-numbers",

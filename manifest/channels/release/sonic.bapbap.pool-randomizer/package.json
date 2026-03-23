@@ -49,6 +49,10 @@
       "versionManifestPath": "versions/1.0.0/version.json"
     }
   ],
-  "visual": {},
+  "visual": {
+    "ribbonTags": [
+      "host-only"
+    ]
+  },
   "thumbnailPath": "../../../assets/packages/refresh.png"
 }
