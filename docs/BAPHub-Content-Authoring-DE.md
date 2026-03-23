@@ -222,21 +222,46 @@ Wichtig:
 - Wenn du ein Paket wirklich verbergen willst, nimm `visibility: "secret"`.
 - Wenn du **nur** einen Ribbon willst, aber das Paket sichtbar bleiben soll, nutze nur das Ribbon und **kein** `visibility`.
 
-### Passwort-Flow
+### Secret-Gruppen und Passwort-Hashes
 
-Der Secret-Unlock ist aktuell ein **Launcher-Feature**, kein oeffentliches Manifest-Passwortfeld.
+Secret-Mods koennen zusaetzlich einer Unlock-Gruppe zugeordnet werden:
 
-Das bedeutet:
+```json
+"secretUnlockId": "easter-egg"
+```
 
-- Das Manifest markiert nur, **welche** Pakete geheim sind (`visibility: "secret"`).
-- Das eigentliche Unlock-Passwort liegt launcher-seitig.
-- Es gibt aktuell **kein** oeffentliches Feld wie `password` oder `unlockPassword` im GitHub-Manifest.
+Das Feld ist optional. Wenn es fehlt, nutzt der Launcher intern die Default-Gruppe `default`.
 
-Praktisch heisst das:
+Die erlaubten Passwoerter liegen im Root-Manifest `manifest/index.json` unter `secretUnlocks[]`:
 
-- Heute kannst du Secret-Mods im Manifest definieren.
-- Das Passwort selbst wird **nicht** im Repo/Manifest hinterlegt.
-- Wenn gerade keine Mod verborgen sein soll, setze einfach **keine** `visibility: "secret"`-Felder.
+```json
+"secretUnlocks": [
+  {
+    "id": "easter-egg",
+    "label": "Easter Egg Mods",
+    "passwordSha256": "<sha256-hex-lowercase>"
+  }
+]
+```
+
+Der Launcher vergleicht **nicht** Klartext im Manifest, sondern nur den SHA-256-Hash.
+
+PowerShell-Beispiel zum Berechnen:
+
+```powershell
+$text = "meinpasswort"
+$bytes = [System.Text.Encoding]::UTF8.GetBytes($text)
+$hash = [System.Security.Cryptography.SHA256]::HashData($bytes)
+([System.BitConverter]::ToString($hash) -replace "-", "").ToLower()
+```
+
+Praktisch bedeutet das:
+
+- `visibility: "secret"` entscheidet, ob ein Paket versteckt startet
+- `secretUnlockId` entscheidet, welche Secret-Gruppe es freischaltet
+- `manifest/index.json > secretUnlocks[]` entscheidet, welcher Passwort-Hash zu welcher Gruppe gehoert
+
+Wenn gerade **keine** Mod verborgen sein soll, setze einfach **keine** `visibility: "secret"`-Felder.
 
 ## 8.2) Zeitgesteuerte Geschenk-/Unboxing-Karten
 
