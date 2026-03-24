@@ -9,9 +9,9 @@
       "notes": "Launcher UI polish, mod workflow fixes, radio import support, and updater improvements.",
       "windows": {
         "x64": {
-          "url": "https://github.com/Sonic0810/BAPBAPLauncher/releases/download/launcher-v0.2.1/BAPBAP%20Launcher%20V2%20Setup%200.2.1.exe",
+          "url": "https://github.com/Sonic0810/BAPBAPLauncher/releases/download/launcher-v0.2.1/BAPBAP.Launcher.V2.Setup.0.2.1.exe",
           "sha256": "51D3C094FD7D9FA688112D642299576975A18C338FD06F2973F7D2621FB08499",
-          "fileName": "BAPBAP Launcher V2 Setup 0.2.1.exe"
+          "fileName": "BAPBAP.Launcher.V2.Setup.0.2.1.exe"
         }
       }
     },
