@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "id": "jackmygoodman.bapbap.boss-rush-0-augs",
+  "version": "1.0.0",
+  "allowedExtraTargets": [],
+  "files": [
+    {
+      "sourcePath": "files/0AugsBossRush.dll",
+      "targetPath": "Mods/0AugsBossRush.dll",
+      "sha256": "7fa5229de6cf6b0211125698e3d68bd0af724d795ff0fe495ff3cfa2c167297d",
+      "description": "Main mod dll"
+    }
+  ]
+}
