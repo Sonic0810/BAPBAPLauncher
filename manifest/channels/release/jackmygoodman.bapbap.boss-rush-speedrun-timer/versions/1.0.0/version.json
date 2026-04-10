@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "id": "jackmygoodman.bapbap.boss-rush-speedrun-timer",
+  "version": "1.0.0",
+  "allowedExtraTargets": [],
+  "files": [
+    {
+      "sourcePath": "files/SpeedrunTimer.dll",
+      "targetPath": "Mods/SpeedrunTimer.dll",
+      "sha256": "3a5663d42ac64e2bfa0decd07aee2cfa3b09a3ab01c0538038a66b34f911822a",
+      "description": "Main mod dll"
+    }
+  ]
+}

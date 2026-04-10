@@ -93,6 +93,105 @@
       "thumbnailPath": "../../assets/packages/bossrush.jpg"
     },
     {
+      "id": "jackmygoodman.bapbap.boss-rush-speedrun-timer",
+      "type": "mod",
+      "name": "SpeedrunTimer",
+      "summary": "Shows milliseconds on the Boss Rush timer.",
+      "description": "Boss Rush timer mod that adds millisecond precision to the in-game timer display.",
+      "imagePath": "../../assets/packages/boss-rush-speedrun-timer.png",
+      "packageManifestPath": "jackmygoodman.bapbap.boss-rush-speedrun-timer/package.json",
+      "latestVersion": "1.0.0",
+      "supportedTracks": [
+        "boss-rush"
+      ],
+      "unlockAtUtc": "2026-04-10T22:50:00Z",
+      "tags": [
+        "mod",
+        "boss-rush",
+        "timer",
+        "speedrun"
+      ],
+      "featured": false,
+      "featuredRank": 0,
+      "downloadCount": 0,
+      "likeCount": 0,
+      "followCount": 0,
+      "createdAtUtc": "2026-04-10T22:33:22Z",
+      "updatedAtUtc": "2026-04-10T22:33:22Z",
+      "visual": {
+        "ribbonTags": [
+          "new"
+        ]
+      },
+      "thumbnailPath": "../../assets/packages/boss-rush-speedrun-timer.png"
+    },
+    {
+      "id": "jackmygoodman.bapbap.boss-rush-0-augs",
+      "type": "mod",
+      "name": "0 AugsBossRush",
+      "summary": "Lets you choose zero augments in Boss Rush.",
+      "description": "Boss Rush gameplay mod that changes augment selection so you can choose 0 augments.",
+      "imagePath": "../../assets/packages/boss-rush-0-augs.png",
+      "packageManifestPath": "jackmygoodman.bapbap.boss-rush-0-augs/package.json",
+      "latestVersion": "1.0.0",
+      "supportedTracks": [
+        "boss-rush"
+      ],
+      "unlockAtUtc": "2026-04-10T22:50:00Z",
+      "tags": [
+        "mod",
+        "boss-rush",
+        "augs",
+        "challenge"
+      ],
+      "featured": false,
+      "featuredRank": 0,
+      "downloadCount": 0,
+      "likeCount": 0,
+      "followCount": 0,
+      "createdAtUtc": "2026-04-10T22:33:22Z",
+      "updatedAtUtc": "2026-04-10T22:33:22Z",
+      "visual": {
+        "ribbonTags": [
+          "new"
+        ]
+      },
+      "thumbnailPath": "../../assets/packages/boss-rush-0-augs.png"
+    },
+    {
+      "id": "jackmygoodman.bapbap.boss-rush-5-augs",
+      "type": "mod",
+      "name": "5 AugsBossRush",
+      "summary": "Lets you choose five augments in Boss Rush.",
+      "description": "Boss Rush gameplay mod that changes augment selection so you can choose 5 augments.",
+      "imagePath": "../../assets/packages/boss-rush-5-augs.png",
+      "packageManifestPath": "jackmygoodman.bapbap.boss-rush-5-augs/package.json",
+      "latestVersion": "1.0.0",
+      "supportedTracks": [
+        "boss-rush"
+      ],
+      "unlockAtUtc": "2026-04-10T22:50:00Z",
+      "tags": [
+        "mod",
+        "boss-rush",
+        "augs",
+        "qol"
+      ],
+      "featured": false,
+      "featuredRank": 0,
+      "downloadCount": 0,
+      "likeCount": 0,
+      "followCount": 0,
+      "createdAtUtc": "2026-04-10T22:33:22Z",
+      "updatedAtUtc": "2026-04-10T22:33:22Z",
+      "visual": {
+        "ribbonTags": [
+          "new"
+        ]
+      },
+      "thumbnailPath": "../../assets/packages/boss-rush-5-augs.png"
+    },
+    {
       "id": "sonic.bapbap.hp-numbers",
       "type": "mod",
       "name": "BAPBAP HP Numbers",

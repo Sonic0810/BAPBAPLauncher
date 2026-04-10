@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "jackmygoodman.bapbap.boss-rush-5-augs",
+  "type": "mod",
+  "name": "5 AugsBossRush",
+  "summary": "Lets you choose five augments in Boss Rush.",
+  "description": "Boss Rush gameplay mod that changes augment selection so you can choose 5 augments.",
+  "imagePath": "../../../assets/packages/boss-rush-5-augs.png",
+  "gallery": [],
+  "authors": [
+    {
+      "id": "jackmygoodman",
+      "name": "JackMyGoodMan",
+      "role": "Owner"
+    }
+  ],
+  "owner": {
+    "name": "JackMyGoodMan"
+  },
+  "tags": [
+    "mod",
+    "boss-rush",
+    "augs",
+    "qol"
+  ],
+  "supportedTracks": [
+    "boss-rush"
+  ],
+  "requirements": [
+    {
+      "id": "melonloader-required",
+      "text": "MelonLoader 0.7.2-ci.2388 is required for managed installs.",
+      "type": "melonloader_version",
+      "value": "0.7.2-ci.2388",
+      "severity": "warning"
+    }
+  ],
+  "latestVersion": "1.0.0",
+  "unlockAtUtc": "2026-04-10T22:50:00Z",
+  "metrics": {
+    "downloadCount": 0,
+    "likeCount": 0,
+    "followCount": 0,
+    "createdAtUtc": "2026-04-10T22:33:22Z",
+    "updatedAtUtc": "2026-04-10T22:33:22Z"
+  },
+  "versions": [
+    {
+      "version": "1.0.0",
+      "changelog": "Initial launcher release",
+      "versionManifestPath": "versions/1.0.0/version.json"
+    }
+  ],
+  "visual": {
+    "ribbonTags": [
+      "new"
+    ]
+  },
+  "thumbnailPath": "../../../assets/packages/boss-rush-5-augs.png"
+}
