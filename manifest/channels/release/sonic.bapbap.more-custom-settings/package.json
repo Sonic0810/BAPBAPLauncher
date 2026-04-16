@@ -19,10 +19,6 @@
     "name": "Sonic0810",
     "profileUrl": "https://github.com/Sonic0810"
   },
-  "supportedTracks": [
-    "bapbap",
-    "latest"
-  ],
   "tags": [
     "mod",
     "arena",
@@ -53,10 +49,6 @@
       "versionManifestPath": "versions/0.1.0/version.json"
     }
   ],
-  "visual": {
-    "ribbonTags": [
-      "host-only"
-    ]
-  },
+  "visual": {},
   "thumbnailPath": "../../../assets/packages/more-custom-settings.png"
 }

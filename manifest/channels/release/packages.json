@@ -334,10 +334,6 @@
       "imagePath": "../../assets/packages/more-custom-settings.png",
       "packageManifestPath": "sonic.bapbap.more-custom-settings/package.json",
       "latestVersion": "0.1.0",
-      "supportedTracks": [
-        "bapbap",
-        "latest"
-      ],
       "tags": [
         "mod",
         "arena",
@@ -351,11 +347,7 @@
       "followCount": 0,
       "createdAtUtc": "2026-04-16T02:34:03Z",
       "updatedAtUtc": "2026-04-16T02:34:03Z",
-      "visual": {
-        "ribbonTags": [
-          "host-only"
-        ]
-      },
+      "visual": {},
       "thumbnailPath": "../../assets/packages/more-custom-settings.png"
     }
   ]
