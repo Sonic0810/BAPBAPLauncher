@@ -6,7 +6,7 @@
       "version": "0.2.2",
       "channel": "stable",
       "publishedAtUtc": "2026-04-16T01:48:30Z",
-      "notes": "Fixes selected instance path handling, bundles the refreshed default Rebalance workspace data, keeps Tools hidden behind the password gate, and improves workspace repair for missing support catalogs.",
+      "notes": "Updated for new Features like Copy Log .",
       "windows": {
         "x64": {
           "url": "https://github.com/Sonic0810/BAPBAPLauncher/releases/download/launcher-v0.2.2/BAPBAP.Launcher.V2.Setup.0.2.2.exe",
