@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "id": "sonic.bapbap.more-custom-settings",
+  "version": "0.1.0",
+  "allowedExtraTargets": [],
+  "files": [
+    {
+      "sourcePath": "files/MoreCustomSettings.dll",
+      "targetPath": "Mods/MoreCustomSettings.dll",
+      "sha256": "f1654280829842f33523b8d487c9d4dbd0b1f8df6bc2a610200d04132abfdf71",
+      "description": "Main mod dll"
+    }
+  ]
+}
