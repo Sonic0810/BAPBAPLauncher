@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "sonic.bapbap.more-custom-settings",
+  "type": "mod",
+  "name": "BAPBAP More Custom Settings",
+  "summary": "Allows more settings for matches and bots.",
+  "description": "Adds more settings for custom matches and bots in BAPBAP.",
+  "imagePath": "../../../assets/packages/more-custom-settings.png",
+  "gallery": [],
+  "authors": [
+    {
+      "id": "sonic0810",
+      "name": "Sonic0810",
+      "profileUrl": "https://github.com/Sonic0810",
+      "role": "Owner"
+    }
+  ],
+  "owner": {
+    "name": "Sonic0810",
+    "profileUrl": "https://github.com/Sonic0810"
+  },
+  "supportedTracks": [
+    "bapbap",
+    "latest"
+  ],
+  "tags": [
+    "mod",
+    "arena",
+    "bots",
+    "settings"
+  ],
+  "requirements": [
+    {
+      "id": "melonloader-required",
+      "text": "MelonLoader 0.7.2-ci.2388 is required for managed installs.",
+      "type": "melonloader_version",
+      "value": "0.7.2-ci.2388",
+      "severity": "warning"
+    }
+  ],
+  "latestVersion": "0.1.0",
+  "metrics": {
+    "downloadCount": 0,
+    "likeCount": 0,
+    "followCount": 0,
+    "createdAtUtc": "2026-04-16T02:34:03Z",
+    "updatedAtUtc": "2026-04-16T02:34:03Z"
+  },
+  "versions": [
+    {
+      "version": "0.1.0",
+      "changelog": "Initial launcher release",
+      "versionManifestPath": "versions/0.1.0/version.json"
+    }
+  ],
+  "visual": {
+    "ribbonTags": [
+      "host-only"
+    ]
+  },
+  "thumbnailPath": "../../../assets/packages/more-custom-settings.png"
+}

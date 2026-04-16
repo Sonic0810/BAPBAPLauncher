@@ -324,6 +324,39 @@
       "updatedAtUtc": "2026-03-02T13:37:04Z",
       "visual": {},
       "thumbnailPath": "../../assets/packages/assetdumper.png"
+    },
+    {
+      "id": "sonic.bapbap.more-custom-settings",
+      "type": "mod",
+      "name": "BAPBAP More Custom Settings",
+      "summary": "Allows more settings for matches and bots.",
+      "description": "Adds more settings for custom matches and bots in BAPBAP.",
+      "imagePath": "../../assets/packages/more-custom-settings.png",
+      "packageManifestPath": "sonic.bapbap.more-custom-settings/package.json",
+      "latestVersion": "0.1.0",
+      "supportedTracks": [
+        "bapbap",
+        "latest"
+      ],
+      "tags": [
+        "mod",
+        "arena",
+        "bots",
+        "settings"
+      ],
+      "featured": false,
+      "featuredRank": 0,
+      "downloadCount": 0,
+      "likeCount": 0,
+      "followCount": 0,
+      "createdAtUtc": "2026-04-16T02:34:03Z",
+      "updatedAtUtc": "2026-04-16T02:34:03Z",
+      "visual": {
+        "ribbonTags": [
+          "host-only"
+        ]
+      },
+      "thumbnailPath": "../../assets/packages/more-custom-settings.png"
     }
   ]
 }
