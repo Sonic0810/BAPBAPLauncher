@@ -1,71 +1,71 @@
 {
-    "schemaVersion":  1,
-    "channel":  "stable",
-    "releases":  [
-                     {
-                         "version":  "0.3.1",
-                         "channel":  "stable",
-                         "publishedAtUtc":  "2026-05-27T03:23:15Z",
-                         "notes":  "Fix the instances.",
-                         "windows":  {
-                                         "x64":  {
-                                                     "url":  "https://github.com/Sonic0810/BAPBAPLauncher/releases/download/launcher-v0.3.1/BAPBAP.Launcher.V2.Setup.0.3.1.exe",
-                                                     "sha256":  "617D24441FA6C05E54783EB38067923C9676ABD39A8AA13C5C954A78555591FA",
-                                                     "fileName":  "BAPBAP.Launcher.V2.Setup.0.3.1.exe"
-                                                 }
-                                     }
-                     },
-                     {
-                         "version":  "0.3.0",
-                         "channel":  "stable",
-                         "publishedAtUtc":  "2026-05-26T23:50:00Z",
-                         "notes":  "Newly made RebalanceUI",
-                         "windows":  {
-                                         "x64":  {
-                                                     "url":  "https://github.com/Sonic0810/BAPBAPLauncher/releases/download/launcher-v0.3.0/BAPBAP.Launcher.V2.Setup.0.3.0.exe",
-                                                     "sha256":  "D1594F519A84088CD12457A2AA194AABB11614B6C4D934A4162500EBDFA5FE19",
-                                                     "fileName":  "BAPBAP.Launcher.V2.Setup.0.3.0.exe"
-                                                 }
-                                     }
-                     },
-                     {
-                         "version":  "0.2.2",
-                         "channel":  "stable",
-                         "publishedAtUtc":  "2026-04-16T01:48:30Z",
-                         "notes":  "Updated for new Features like Copy Log .",
-                         "windows":  {
-                                         "x64":  {
-                                                     "url":  "https://github.com/Sonic0810/BAPBAPLauncher/releases/download/launcher-v0.2.2/BAPBAP.Launcher.V2.Setup.0.2.2.exe",
-                                                     "sha256":  "EEBE044F5A565C0C9A6AAE48C5222B527166C935AD994B498B12B11EB0285C84",
-                                                     "fileName":  "BAPBAP.Launcher.V2.Setup.0.2.2.exe"
-                                                 }
-                                     }
-                     },
-                     {
-                         "version":  "0.2.1",
-                         "channel":  "stable",
-                         "publishedAtUtc":  "2026-03-24T16:47:05Z",
-                         "notes":  "Launcher UI polish, mod workflow fixes, radio import support, and updater improvements.",
-                         "windows":  {
-                                         "x64":  {
-                                                     "url":  "https://github.com/Sonic0810/BAPBAPLauncher/releases/download/launcher-v0.2.1/BAPBAP.Launcher.V2.Setup.0.2.1.exe",
-                                                     "sha256":  "51D3C094FD7D9FA688112D642299576975A18C338FD06F2973F7D2621FB08499",
-                                                     "fileName":  "BAPBAP.Launcher.V2.Setup.0.2.1.exe"
-                                                 }
-                                     }
-                     },
-                     {
-                         "version":  "0.1.0",
-                         "channel":  "stable",
-                         "publishedAtUtc":  "2026-03-16T00:00:00Z",
-                         "notes":  "Initial BAPBAP Launcher V2 release.",
-                         "windows":  {
-                                         "x64":  {
-                                                     "url":  "https://github.com/Sonic0810/BAPBAPLauncher/releases/download/launcher-v0.1.0/BAPBAP.Launcher.V2.Setup.0.1.0.exe",
-                                                     "sha256":  "F11F439F20A790D2DD9902F8AA6550538BF1FE7480626A805EB73182E9DB9B73",
-                                                     "fileName":  "BAPBAP.Launcher.V2.Setup.0.1.0.exe"
-                                                 }
-                                     }
-                     }
-                 ]
+  "schemaVersion": 1,
+  "channel": "stable",
+  "releases": [
+    {
+      "version": "0.3.3",
+      "channel": "stable",
+      "publishedAtUtc": "2026-05-27T03:40:00Z",
+      "notes": "Final Fix for Instances",
+      "windows": {
+        "x64": {
+          "url": "https://github.com/Sonic0810/BAPBAPLauncher/releases/download/launcher-v0.3.3/BAPBAP.Launcher.V2.Setup.0.3.3.exe",
+          "sha256": "A565E0D0170DF735EC9FF6BC1B6AE78827CB7D9CEB7AB5D4B9752317F7CB4E76",
+          "fileName": "BAPBAP.Launcher.V2.Setup.0.3.3.exe"
+        }
+      }
+    },
+    {
+      "version": "0.3.0",
+      "channel": "stable",
+      "publishedAtUtc": "2026-05-26T23:50:00Z",
+      "notes": "Newly made RebalanceUI",
+      "windows": {
+        "x64": {
+          "url": "https://github.com/Sonic0810/BAPBAPLauncher/releases/download/launcher-v0.3.0/BAPBAP.Launcher.V2.Setup.0.3.0.exe",
+          "sha256": "D1594F519A84088CD12457A2AA194AABB11614B6C4D934A4162500EBDFA5FE19",
+          "fileName": "BAPBAP.Launcher.V2.Setup.0.3.0.exe"
+        }
+      }
+    },
+    {
+      "version": "0.2.2",
+      "channel": "stable",
+      "publishedAtUtc": "2026-04-16T01:48:30Z",
+      "notes": "Fixes selected instance path handling, bundles the refreshed default Rebalance workspace data, keeps Tools hidden behind the password gate, and improves workspace repair for missing support catalogs.",
+      "windows": {
+        "x64": {
+          "url": "https://github.com/Sonic0810/BAPBAPLauncher/releases/download/launcher-v0.2.2/BAPBAP.Launcher.V2.Setup.0.2.2.exe",
+          "sha256": "EEBE044F5A565C0C9A6AAE48C5222B527166C935AD994B498B12B11EB0285C84",
+          "fileName": "BAPBAP.Launcher.V2.Setup.0.2.2.exe"
+        }
+      }
+    },
+    {
+      "version": "0.2.1",
+      "channel": "stable",
+      "publishedAtUtc": "2026-03-24T16:47:05Z",
+      "notes": "Launcher UI polish, mod workflow fixes, radio import support, and updater improvements.",
+      "windows": {
+        "x64": {
+          "url": "https://github.com/Sonic0810/BAPBAPLauncher/releases/download/launcher-v0.2.1/BAPBAP.Launcher.V2.Setup.0.2.1.exe",
+          "sha256": "51D3C094FD7D9FA688112D642299576975A18C338FD06F2973F7D2621FB08499",
+          "fileName": "BAPBAP.Launcher.V2.Setup.0.2.1.exe"
+        }
+      }
+    },
+    {
+      "version": "0.1.0",
+      "channel": "stable",
+      "publishedAtUtc": "2026-03-16T00:00:00Z",
+      "notes": "Initial BAPBAP Launcher V2 release.",
+      "windows": {
+        "x64": {
+          "url": "https://github.com/Sonic0810/BAPBAPLauncher/releases/download/launcher-v0.1.0/BAPBAP.Launcher.V2.Setup.0.1.0.exe",
+          "sha256": "F11F439F20A790D2DD9902F8AA6550538BF1FE7480626A805EB73182E9DB9B73",
+          "fileName": "BAPBAP.Launcher.V2.Setup.0.1.0.exe"
+        }
+      }
+    }
+  ]
 }
