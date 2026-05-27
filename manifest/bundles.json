@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  1,
+    "channel":  "stable",
+    "bundles":  [
+                    {
+                        "bundleId":  "battle-royale-playtest",
+                        "name":  "Battle Royale Playtest",
+                        "channel":  "stable",
+                        "version":  "0.1.0",
+                        "buildNumber":  1,
+                        "publishedAtUtc":  "2026-05-27T03:15:09Z",
+                        "manifestUrl":  "https://github.com/Sonic0810/BAPBAPLauncher/releases/download/bundle-battle-royale-playtest-v0.1.0/manifest.json",
+                        "archiveUrl":  "https://github.com/Sonic0810/BAPBAPLauncher/releases/download/bundle-battle-royale-playtest-v0.1.0/bundle.zip",
+                        "archiveSha256":  "fa401314ed07a62e429bc4f59b73c63cd71a6a4a6ccf92a7876bd41787154f1e",
+                        "sizeBytes":  564701369,
+                        "notes":  "After years. It is BACK.",
+                        "minLauncherVersion":  "0.3.1"
+                    },
+                    null
+                ]
+}
