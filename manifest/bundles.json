@@ -1,20 +1,20 @@
 {
-  "schemaVersion": 1,
-  "channel": "stable",
-  "bundles": [
-    {
-      "bundleId": "battle-royale-playtest",
-      "name": "Battle Royale Playtest",
-      "channel": "stable",
-      "version": "0.1.0",
-      "buildNumber": 1,
-      "publishedAtUtc": "2026-05-27T03:15:09Z",
-      "manifestUrl": "https://github.com/Sonic0810/BAPBAPLauncher/releases/download/bundle-battle-royale-playtest-v0.1.0/manifest.json",
-      "sizeBytes": 564701369,
-      "notes": "After years. It is BACK.",
-      "minLauncherVersion": "0.3.1",
-      "imageUrl": "https://github.com/Sonic0810/BAPBAPLauncher/releases/download/bundle-battle-royale-playtest-v0.1.0/battleroyale.jpg",
-      "description": "After years. It is BACK."
-    }
-  ]
+    "schemaVersion": 1,
+    "channel": "stable",
+    "bundles": [
+        {
+            "bundleId": "battle-royale-playtest",
+            "name": "Battle Royale Playtest",
+            "channel": "stable",
+            "version": "0.1.0",
+            "buildNumber": 1,
+            "publishedAtUtc": "2026-05-27T03:15:09Z",
+            "manifestUrl": "https://github.com/Sonic0810/BAPBAPLauncher/releases/download/bundle-battle-royale-playtest-v0.1.0/manifest.json",
+            "sizeBytes": 564701369,
+            "notes": "After years. It is BACK.",
+            "minLauncherVersion": "0.3.1",
+            "imageUrl": "https://github.com/Sonic0810/BAPBAPLauncher/releases/download/bundle-battle-royale-playtest-v0.1.0/battleroyale.jpg",
+            "description": "After years. It is BACK."
+        }
+    ]
 }
