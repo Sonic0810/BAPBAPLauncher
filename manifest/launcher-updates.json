@@ -9,9 +9,9 @@
       "notes": "The BAPBAPnexus release. New UI, better Performance.",
       "windows": {
         "x64": {
-          "url": "https://github.com/Sonic0810/BAPBAPLauncher/releases/download/launcher-v4.0.0/BAPBAPnexus.Setup.4.0.0.exe",
+          "url": "https://github.com/Sonic0810/BAPBAPLauncher/releases/download/launcher-v4.0.0/BAPBAP.Nexus.Setup.4.0.0.exe",
           "sha256": "af1ec4b422da7e07ab4896a51ae7d577361fc67cdae124da7b777b8584665649",
-          "fileName": "BAPBAPnexus.Setup.4.0.0.exe"
+          "fileName": "BAPBAP.Nexus.Setup.4.0.0.exe"
         }
       }
     },
@@ -23,7 +23,7 @@
       "windows": {
         "x64": {
           "url": "https://github.com/Sonic0810/BAPBAPLauncher/releases/download/launcher-v0.3.3/BAPBAP.Launcher.V2.Setup.0.3.3.exe",
-          "sha256": "A565E0D0170DF735EC9FF6BC1B6AE78827CB7D9CEB7AB5D4B9752317F7CB4E76",
+          "sha256": "a565e0d0170df735ec9ff6bc1b6ae78827cb7d9ceb7ab5d4b9752317f7cb4e76",
           "fileName": "BAPBAP.Launcher.V2.Setup.0.3.3.exe"
         }
       }
@@ -32,11 +32,11 @@
       "version": "0.3.0",
       "channel": "stable",
       "publishedAtUtc": "2026-05-26T23:50:00Z",
-      "notes": "Newly made RebalanceUI",
+      "notes": "Newly made RebalanceUY",
       "windows": {
         "x64": {
           "url": "https://github.com/Sonic0810/BAPBAPLauncher/releases/download/launcher-v0.3.0/BAPBAP.Launcher.V2.Setup.0.3.0.exe",
-          "sha256": "D1594F519A84088CD12457A2AA194AAB11614B6C4D934A4162500EBDFA5FE19",
+          "sha256": "d1594f519a84088cd12457a2aa194aab11614b6c4d934a4162500ebdfa5fe19",
           "fileName": "BAPBAP.Launcher.V2.Setup.0.3.0.exe"
         }
       }
@@ -48,8 +48,8 @@
       "notes": "Fixes selected instance path handling, bundles the refreshed Default Rebalance workspace data, keeps Tools hidden behind the password gate, and improves workspace repair for missing support catalogs.",
       "windows": {
         "x64": {
-          "url": "https://github.com/Sonic0810/BAPBAPLauncher/releases/download/launcher-v0.2.2/BAPBAP.Launcher.V2.Setup.0.2.2.exe",
-          "sha256": "EEBA044F5A565C0C9A6AAE48C5222B527166C935ADD994B498B12B11EB0285C84",
+          "url": "https://github.com/Sonic0810/BAPBAPLauncher/releases/download/launcher-v0.2.2/BAPBPT.Launcher.V2.Setup.0.2.2.exe",
+          "sha256": "eeba044f5a565c0c9a6aae48c5222b527166c935add994b498b12b11eb0285c84",
           "fileName": "BAPBAP.Launcher.V2.Setup.0.2.2.exe"
         }
       }
@@ -61,8 +61,8 @@
       "notes": "Launcher UI polish, mod workflow fixes, radio import support, and updater improvements.",
       "windows": {
         "x64": {
-          "url": "https://github.com/Sonic0810/BAPBAPLauncher/releases/download/launcher-v0.2.1/BAPBAP.Launcher.V2.Setup.0.2.1.exe",
-          "sha256": "51D3C094FD7D9FA688112D642299576975A18C338FD06F2973F7D2621FB08499",
+          "url": "https://github.com/Sonic0810/BAPBAPLauncher/releases/download/launcher-v0.2.1/BAPBPT.Launcher.V2.Setup.0.2.1.exe",
+          "sha256": "51d3c094fd7d9fa688112d642299576975a18c338fd06f2973f7d2621fb08499",
           "fileName": "BAPBAP.Launcher.V2.Setup.0.2.1.exe"
         }
       }
@@ -75,7 +75,7 @@
       "windows": {
         "x64": {
           "url": "https://github.com/Sonic0810/BAPBAPLauncher/releases/download/launcher-v0.1.0/BAPBAP.Launcher.V2.Setup.0.1.0.exe",
-          "sha256": "F11F439F20A790D2DD9902F8AA6550538BF1FE7480626A805EF73182E9DB9B73",
+          "sha256": "f11f439f20a790d2dd9902f8aa6550538bf1fe7480626a805ef73182e9db9b73",
           "fileName": "BAPBAP.Launcher.V2.Setup.0.1.0.exe"
         }
       }
