@@ -3,10 +3,23 @@
   "channel": "stable",
   "releases": [
     {
+      "version": "4.0.1",
+      "channel": "stable",
+      "publishedAtUtc": "2026-06-25T12:00:00Z",
+      "notes": "New UI Scale Settings and Bug fixes",
+      "windows": {
+        "x64": {
+          "url": "https://github.com/Sonic0810/BAPBAPLauncher/releases/download/launcher-v4.0.1/BAPBAP.Nexus.Setup.4.0.1.exe",
+          "sha256": "059de35fb612c5b6fc6b875aea8c6eac4b9a60c8e036bd988b1fbdf021ae7682",
+          "fileName": "BAPBAP.Nexus.Setup.4.0.1.exe"
+        }
+      }
+    },
+    {
       "version": "4.0.0",
       "channel": "stable",
       "publishedAtUtc": "2026-06-24T00:00:00Z",
-      "notes": "The BAPBAPnexus release. New UI, better Performance.",
+      "notes": "The BAPBAP. Nexus release. New UI, better Performance.",
       "windows": {
         "x64": {
           "url": "https://github.com/Sonic0810/BAPBAPLauncher/releases/download/launcher-v4.0.0/BAPBAP.Nexus.Setup.4.0.0.exe",
