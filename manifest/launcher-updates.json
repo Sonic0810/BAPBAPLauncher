@@ -3,6 +3,19 @@
   "channel": "stable",
   "releases": [
     {
+      "version": "4.0.2",
+      "channel": "stable",
+      "publishedAtUtc": "2026-06-30T07:00:00Z",
+      "notes": "Added new Translations",
+      "windows": {
+        "x64": {
+          "url": "https://github.com/Sonic0810/BAPBAPLauncher/releases/download/launcher-v4.0.2/BAPBAP.Nexus.Setup.4.0.2.exe",
+          "sha256": "d4be748dbd8ffb7a645979d45e776960b9be5599a1e1fe1180735bfe30754e20",
+          "fileName": "BAPBAP.Nexus.Setup.4.0.2.exe"
+        }
+      }
+    },
+    {
       "version": "4.0.1",
       "channel": "stable",
       "publishedAtUtc": "2026-06-25T12:00:00Z",
