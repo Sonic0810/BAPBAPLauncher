@@ -7,14 +7,16 @@
             "name": "Battle Royale Playtest",
             "channel": "stable",
             "version": "0.1.0",
-            "buildNumber": 1,
-            "publishedAtUtc": "2026-05-27T03:15:09Z",
+            "buildNumber": 2,
+            "publishedAtUtc": "2026-07-07T11:22:00Z",
             "manifestUrl": "https://github.com/Sonic0810/BAPBAPLauncher/releases/download/bundle-battle-royale-playtest-v0.1.0/manifest.json",
-            "sizeBytes": 564701369,
-            "notes": "After years. It is BACK.",
+            "archiveUrl": "https://github.com/Sonic0810/BAPBAPLauncher/releases/download/bundle-battle-royale-playtest-v0.1.0/bundle.zip",
+            "archiveSha256": "f4206bf232189fb7ae1b86f44a8185677f4555ee07b26bfe492a036e6b6dd993",
+            "sizeBytes": 631678558,
+            "notes": "Initial Battle Royale Playtest release.",
             "minLauncherVersion": "0.3.1",
             "imageUrl": "https://github.com/Sonic0810/BAPBAPLauncher/releases/download/bundle-battle-royale-playtest-v0.1.0/battleroyale.jpg",
-            "description": "After years. It is BACK."
+            "description": "Initial Battle Royale Playtest release."
         }
     ]
 }
