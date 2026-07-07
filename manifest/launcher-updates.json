@@ -3,6 +3,19 @@
   "channel": "stable",
   "releases": [
     {
+      "version": "4.0.5",
+      "channel": "stable",
+      "publishedAtUtc": "2026-07-07T15:30:00Z",
+      "notes": "Backend updates and bug fixes involving Battle royale",
+      "windows": {
+        "x64": {
+          "url": "https://github.com/Sonic0810/BAPBAPLauncher/releases/download/launcher-v4.0.5/BAPBAP.Nexus.Setup.4.0.5.exe",
+          "sha256": "c875c570c641985ec3d854b512c9a8d34d9c351e9d51f10d7e7ebf8db89888c0",
+          "fileName": "BAPBAP.Nexus.Setup.4.0.5.exe"
+        }
+      }
+    },
+    {
       "version": "4.0.4",
       "channel": "stable",
       "publishedAtUtc": "2026-07-02T12:00:00Z",
