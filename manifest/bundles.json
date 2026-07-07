@@ -1,22 +1,22 @@
 {
-    "schemaVersion": 1,
-    "channel": "stable",
-    "bundles": [
-        {
-            "bundleId": "battle-royale-playtest",
-            "name": "Battle Royale Playtest",
-            "channel": "stable",
-            "version": "0.1.0",
-            "buildNumber": 2,
-            "publishedAtUtc": "2026-07-07T11:22:00Z",
-            "manifestUrl": "https://github.com/Sonic0810/BAPBAPLauncher/releases/download/bundle-battle-royale-playtest-v0.1.0/manifest.json",
-            "archiveUrl": "https://github.com/Sonic0810/BAPBAPLauncher/releases/download/bundle-battle-royale-playtest-v0.1.0/bundle.zip",
-            "archiveSha256": "f4206bf232189fb7ae1b86f44a8185677f4555ee07b26bfe492a036e6b6dd993",
-            "sizeBytes": 631678558,
-            "notes": "Initial Battle Royale Playtest release.",
-            "minLauncherVersion": "0.3.1",
-            "imageUrl": "https://github.com/Sonic0810/BAPBAPLauncher/releases/download/bundle-battle-royale-playtest-v0.1.0/battleroyale.jpg",
-            "description": "Initial Battle Royale Playtest release."
-        }
-    ]
+  "schemaVersion": 1,
+  "channel": "stable",
+  "bundles": [
+    {
+      "bundleId": "battle-royale-playtest",
+      "name": "Battle Royale Playtest",
+      "channel": "stable",
+      "version": "0.1.1",
+      "buildNumber": 3,
+      "publishedAtUtc": "2026-07-07T23:51:00Z",
+      "manifestUrl": "https://github.com/Sonic0810/BAPBAPLauncher/releases/download/bundle-battle-royale-playtest-v0.1.1/manifest.json",
+      "archiveUrl": "https://github.com/Sonic0810/BAPBAPLauncher/releases/download/bundle-battle-royale-playtest-v0.1.1/bundle.zip",
+      "archiveSha256": "478d3a6d49ccd431696b15682501a69f88bbf81d216a974bf242f36d483c3dea",
+      "sizeBytes": 631761743,
+      "notes": "Char selection bug fix",
+      "minLauncherVersion": "0.3.1",
+      "imageUrl": "https://github.com/Sonic0810/BAPBAPLauncher/releases/download/bundle-battle-royale-playtest-v0.1.0/battleroyale.jpg",
+      "description": "Char selection bug fix"
+    }
+  ]
 }
