@@ -51,11 +51,6 @@
       "versionManifestPath": "versions/1.0.0/version.json"
     }
   ],
-  "visual": {
-    "preset": "ember",
-    "tags": [
-      "hidden_ember"
-    ]
-  },
+  "visual": {},
   "thumbnailPath": "../../../assets/packages/oldgold.png"
 }

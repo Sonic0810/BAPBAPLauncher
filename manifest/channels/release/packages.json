@@ -25,12 +25,8 @@
       "createdAtUtc": "2026-03-02T00:34:00Z",
       "updatedAtUtc": "2026-03-02T00:34:00Z",
       "visual": {
-        "preset": "candy",
         "ribbonTags": [
           "host-only"
-        ],
-        "tags": [
-          "hidden_candy"
         ]
       },
       "thumbnailPath": "../../assets/packages/devarg.png"
@@ -267,12 +263,7 @@
       "followCount": 0,
       "createdAtUtc": "2026-03-02T11:19:23Z",
       "updatedAtUtc": "2026-03-02T11:29:12Z",
-      "visual": {
-        "preset": "ember",
-        "tags": [
-          "hidden_ember"
-        ]
-      },
+      "visual": {},
       "thumbnailPath": "../../assets/packages/oldgold.png"
     },
     {

@@ -50,12 +50,8 @@
     }
   ],
   "visual": {
-    "preset": "candy",
     "ribbonTags": [
       "host-only"
-    ],
-    "tags": [
-      "hidden_candy"
     ]
   },
   "thumbnailPath": "../../../assets/packages/devarg.png"
