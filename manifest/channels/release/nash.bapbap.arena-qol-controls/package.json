@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "nash.bapbap.arena-qol-controls",
+  "type": "mod",
+  "name": "Arena QOL Controls",
+  "summary": "Per-team buffs, augments and rerolls, plus a Raid Boss preset.",
+  "description": "Custom-lobby controls for Arena: per-team buffs, team-specific augments and rerolls, win/loss round-end augments, and a Raid Boss preset.",
+  "imagePath": "../../../assets/packages/arena-qol-controls.png",
+  "gallery": [],
+  "authors": [
+    {
+      "id": "n.a.s.h",
+      "name": "nash (@n.a.s.h)",
+      "role": "Author"
+    }
+  ],
+  "owner": {
+    "name": "nash (@n.a.s.h)"
+  },
+  "supportedTracks": [
+    "bapbap"
+  ],
+  "tags": [
+    "mod",
+    "arena",
+    "settings",
+    "teams",
+    "qol"
+  ],
+  "requirements": [
+    {
+      "id": "melonloader-required",
+      "text": "MelonLoader 0.7.2-ci.2388 is required for managed installs.",
+      "type": "melonloader_version",
+      "value": "0.7.2-ci.2388",
+      "severity": "warning"
+    }
+  ],
+  "latestVersion": "1.0.0",
+  "metrics": {
+    "downloadCount": 0,
+    "likeCount": 0,
+    "followCount": 0,
+    "createdAtUtc": "2026-11-08T19:53:39Z",
+    "updatedAtUtc": "2026-11-08T19:53:39Z"
+  },
+  "versions": [
+    {
+      "version": "1.0.0",
+      "changelog": "Initial launcher release. Built from the reviewed ArenaToggles source.",
+      "versionManifestPath": "versions/1.0.0/version.json"
+    }
+  ],
+  "visual": {
+    "ribbonTags": [
+      "host-only"
+    ]
+  },
+  "thumbnailPath": "../../../assets/packages/arena-qol-controls.png"
+}

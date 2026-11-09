@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "id": "nash.bapbap.arena-qol-controls",
+  "version": "1.0.0",
+  "allowedExtraTargets": [],
+  "files": [
+    {
+      "sourcePath": "files/ArenaQOLControls.dll",
+      "targetPath": "Mods/ArenaQOLControls.dll",
+      "sha256": "3a89877556703cee59e0c1df9c95d027225e78b56d047628e351beb983d22d7b",
+      "description": "Main mod dll"
+    }
+  ]
+}

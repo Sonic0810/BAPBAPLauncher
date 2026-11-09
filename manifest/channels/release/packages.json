@@ -340,6 +340,39 @@
       "updatedAtUtc": "2026-04-16T02:34:03Z",
       "visual": {},
       "thumbnailPath": "../../assets/packages/more-custom-settings.png"
+    },
+    {
+      "id": "nash.bapbap.arena-qol-controls",
+      "type": "mod",
+      "name": "Arena QOL Controls",
+      "summary": "Per-team buffs, augments and rerolls, plus a Raid Boss preset.",
+      "description": "Custom-lobby controls for Arena: per-team buffs, team-specific augments and rerolls, win/loss round-end augments, and a Raid Boss preset.",
+      "imagePath": "../../assets/packages/arena-qol-controls.png",
+      "packageManifestPath": "nash.bapbap.arena-qol-controls/package.json",
+      "latestVersion": "1.0.0",
+      "supportedTracks": [
+        "bapbap"
+      ],
+      "tags": [
+        "mod",
+        "arena",
+        "settings",
+        "teams",
+        "qol"
+      ],
+      "featured": false,
+      "featuredRank": 0,
+      "downloadCount": 0,
+      "likeCount": 0,
+      "followCount": 0,
+      "createdAtUtc": "2026-11-08T19:53:39Z",
+      "updatedAtUtc": "2026-11-08T19:53:39Z",
+      "visual": {
+        "ribbonTags": [
+          "host-only"
+        ]
+      },
+      "thumbnailPath": "../../assets/packages/arena-qol-controls.png"
     }
   ]
 }
