@@ -6,7 +6,7 @@
       "version": "7.7.0",
       "channel": "stable",
       "publishedAtUtc": "2026-11-20T03:00:00Z",
-      "notes": "Genesis server built in (no server or manifest fields in Settings anymore), version archive hidden, Windows/Linux builds per launcher, Korean language, many fixes.",
+      "notes": "Nexus next Gen upgrade",
       "windows": {
         "x64": {
           "url": "https://github.com/Sonic0810/BAPBAPLauncher/releases/download/launcher-v7.7.0/BAPBAP.Nexus.Setup.7.7.0.exe",
